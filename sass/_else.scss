@@ -1,0 +1,101 @@
+// surgeon.html
+.aesthetic-main-else{
+
+	@extend .aesthetic-main;
+	
+}
+.surgeon-content{
+	display: block;
+	padding: 58px 0 118px;
+	
+	h2{
+		@extend %all-h2;
+		text-align: center;
+	}
+	h3{
+		@extend %all-h3;
+		text-align: center;
+		margin: 10px 0 60px 0;
+
+	}
+	.surgeon-introduction{
+		// position: relative;
+		text-align: left;
+		width: 50%;
+		margin: 0 4% 2% 0;
+		height: 696px;
+		float: left;
+		background-image: url(../images/img09.jpg); 
+		background-size: cover;
+		
+	}
+	.surgeon-text{
+		position: relative;
+		padding: 60px 9px 0 40px;
+	 	margin: 0 6% 0 0;
+	 	text-align: left;
+	 	h5{
+	 		padding-top: 50px;
+	 		padding-bottom: 20px;
+	 		font-weight: bolder;
+
+	 	}
+	 	p{
+	 		margin: 0 0 25px;
+	 		&:last-child{
+	 			line-height: 3em;
+	 		}
+	 	} 
+		li{
+
+			&:first-child{
+				margin: 0;
+			}
+			margin-top: 30px;
+
+		}
+		.date{
+			position: absolute;
+
+		}
+		.thing{
+			padding-left: 12%;
+		}
+	}
+}
+
+
+// surgeon.html
+// FAQS.html
+
+.aesthetic-FAQS{
+	padding: 0 120px 98px;
+	h3{
+		@extend %all-h3;
+		text-align: center;
+		margin-top: 50px;
+	}
+	h4{
+		font-style: italic;
+		font-weight: bold;
+		margin-bottom: 30px;
+	}
+	h5{
+		font-weight: bolder;
+	}
+	.question{
+		margin-top: 30px;
+	}
+	p{
+		display: block;
+		padding-bottom: 30px;
+		border-bottom: 1px solid #a57c4f;
+		&:last-child{
+			border-bottom: 0 solid;
+		}
+}
+
+}
+
+
+// FAQS.html

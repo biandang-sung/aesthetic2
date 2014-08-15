@@ -1,0 +1,73 @@
+@import "compass/reset";
+@import "aesthetic-main";
+@import "aesthetic-about";
+@import "aesthetic-ourteam";
+@import "aesthetic-ourprocedures";
+@import "aesthetic-contacts";
+@import "aesthetic-maps";
+@import "compass/CSS3";
+*{
+	@include box-sizing(border-box);
+
+}
+.container{
+	width: 100%;
+	max-width: 768px;
+	margin: 0 auto;
+	background-color: #0991C4;
+
+
+}
+
+input{
+	display: inline-block;
+	border: solid 0;	
+	@include border-radius(3px);
+	padding: 0 4px;
+	outline: 0;
+	background-color: rgba(20,20,20,0.3);
+	&:focus{
+		background-color: red;
+		+ label{			
+			opacity: 0;
+			-webkit-transition: all .25s ease;
+			   -moz-transition: all .25s ease;
+			    -ms-transition: all .25s ease;
+			     -o-transition: all .25s ease;
+			        transition: all .25s ease;
+
+		}
+	}	
+
+}
+
+input[type="radio"]{
+	@include inline-block;
+}
+
+input[type="button"]{
+	padding: 10px;
+	background-color: blue;
+	color: #FFF;
+	box-shadow: inset 0px 8px 8px rgba(255,255,255,0.3),inset 0 -8px 10px rgba(0,0,0,0.3),4px 6px 8px rgba(0,0,0,0.3);
+	&:hover{
+		box-shadow: inset 0px 4px 4px rgba(255,255,255,0.3),inset 0 -4px 10px rgba(0,0,0,0.3), 2px 3px 4px rgba(0,0,0,0.3);
+
+	}
+	&:active{
+		box-shadow: inset 0px -6px 8px rgba(255,255,255,0.3),inset 0 6px 10px rgba(0,0,0,0.3),0px 0px 0px rgba(0,0,0,0.3);
+	}
+}
+
+
+.form-box{
+	margin-bottom: 12px;
+	font-size: 12px;
+	label{
+		display: inline-block;
+		width: 60px;
+		margin-right: 12px;
+		text-align: right;
+		opacity: 1;
+	}
+}

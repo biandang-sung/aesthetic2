@@ -1,0 +1,96 @@
+<html>
+<head>
+	<title>AESTHETIC BREAST SURGERY CENTRE</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+		<link href="stylesheets/screen.css" media="all" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,300italic' rel='stylesheet' type='text/css'>
+		<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+		<script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+		<!-- nav-fixed javascript -->
+		
+		<script type="text/javascript">
+			$(function(){
+			    $(window).scroll(function () {
+			        var scrollVal = $(this).scrollTop();
+			        if(scrollVal > 150 ){           
+			           if(parseFloat($('.bottom').css('marginTop')) == -50){
+			            $('.bottom').animate( {marginTop:'0px'}, 200);
+			           }
+			        }else{       
+			            //alert(parseFloat($('.bottom').css('marginTop')));
+			            if(parseFloat($('.bottom').css('marginTop')) == 0){
+			            $('.bottom').animate({ marginTop: '-50px' }, 150);
+			            }
+			        }
+			    });
+			});
+		</script>
+
+		<!-- nav-fixed javascript -->
+		<!-- nav-destination javascript -->
+		
+		<script type="text/javascript">
+			$(".scroll").click(function(event){
+			        event.preventDefault();
+			        //calculate destination place
+			        var dest=0;
+			        if($(this.hash).offset().top > $(document).height()-$(window).height()){
+			             dest=$(document).height()-$(window).height();
+			        }else{
+			             dest=$(this.hash).offset().top;
+			        }
+			        //go to destination
+			        $('html,body').animate({scrollTop:dest}, 1000,'swing');
+			    });
+		</script>
+		<!-- nav-destination javascript -->
+</head>
+
+<body>
+
+	<div class="wrapper">
+<!--1. aesthetic-main -->
+		<div class="aesthetic-main-nav"> 
+			<h1><a href="./index.html" class="aesthetic-logo">AESTHETIC BREAST SURGERY CENTRE</a></h1>
+			<nav class="menu top">
+				<ul>
+					<a class="scrolll" href="#about"><li class="manu-item">ABOUT</li></a>
+					<a class="scroll" href="#ourteam"><li class="manu-item">TEAM</li></a>
+					<a class="scroll" href="#ourprocedures"><li class="manu-item">PROCEDURES</li></a>
+					<a class="scroll" href="./surgeon.html"><li class="manu-item">SURGEON</li></a>
+					<a class="scroll" href="./FAQS.html"><li class="manu-item">FAQS</li></a>
+					<a class="scroll" href="#contacts"><li class="manu-item">CONTACT</li></a>
+				</ul>
+			</nav>
+			<!-- nav-fixed -->
+			<nav class="menu bottom">
+				<ul>
+					<a class="scroll" href="#about"><li class="manu-item">ABOUT</li></a>
+					<a class="scroll" href="#ourteam"><li class="manu-item">TEAM</li></a>
+					<a class="scroll" href="#ourprocedures"><li class="manu-item">PROCEDURES</li></a>
+					<a class="scroll" href="./surgeon.html"><li class="manu-item">SURGEON</li></a>
+					<a class="scroll" href="./FAQS.html"><li class="manu-item">FAQS</li></a>
+					<a class="scroll" href="#contacts"><li class="manu-item">CONTACT</li></a>
+				</ul>
+			</nav>
+			<!-- nav-fixed -->
+		</div>
+
+		<%= yield %>
+
+		<footer class="aesthetic-main-nav">
+				
+				<h1><a href="./index.html" class="aesthetic-logo">AESTHETIC BREAST SURGERY CENTRE</a></h1>
+					<!-- 有一條分隔線 -->
+				
+				<div class="footer-buttom">
+				 <p> © 2014. All rights reserved. Aesthetic Breast Surgery Centre Melbourne & Geelong. Website by <a href="#" class="ozedesign" target="_new">OzEdesign.</a></p> 
+				</div>
+		</footer>
+
+	</div>
+
+</body>
+</html>

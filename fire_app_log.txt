@@ -1,0 +1,2301 @@
+2014-08-06 17:58:49 overwrite stylesheets/screen.css 
+2014-08-06 18:25:20     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:25:20 overwrite stylesheets/screen.css 
+2014-08-06 18:26:05     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:26:05 identical stylesheets/screen.css 
+2014-08-06 18:26:13     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:26:13 identical stylesheets/screen.css 
+2014-08-06 18:26:42     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:26:42 identical stylesheets/screen.css 
+2014-08-06 18:26:55     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:26:55 identical stylesheets/screen.css 
+2014-08-06 18:29:14 overwrite stylesheets/screen.css 
+2014-08-06 18:29:43     error sass/screen.scss (Line 1: File to import not found or unreadable: scss/aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:29:43 overwrite stylesheets/screen.css 
+2014-08-06 18:29:58 overwrite stylesheets/screen.css 
+2014-08-06 18:39:24 overwrite stylesheets/screen.css 
+2014-08-06 18:40:17 identical stylesheets/screen.css 
+2014-08-06 18:43:20     error sass/screen.scss (Line 5: File to import not found or unreadable: aesthetic-ourprocedures.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-06 18:43:20 overwrite stylesheets/screen.css 
+2014-08-06 18:44:02 overwrite stylesheets/screen.css 
+2014-08-06 21:32:12     error sass/screen.scss (Line 10: Undefined mixin 'box-sizing'.)
+2014-08-06 21:32:12 overwrite stylesheets/screen.css 
+2014-08-06 21:33:04 overwrite stylesheets/screen.css 
+2014-08-06 21:33:08 identical stylesheets/screen.css 
+2014-08-06 21:33:24 identical stylesheets/screen.css 
+2014-08-06 21:34:00 overwrite stylesheets/screen.css 
+2014-08-06 21:34:17 overwrite stylesheets/screen.css 
+2014-08-06 21:34:24 overwrite stylesheets/screen.css 
+2014-08-06 21:35:11 overwrite stylesheets/screen.css 
+2014-08-06 21:56:30 overwrite stylesheets/screen.css 
+2014-08-06 21:56:48 overwrite stylesheets/screen.css 
+2014-08-06 21:57:14 overwrite stylesheets/screen.css 
+2014-08-06 21:58:46 overwrite stylesheets/screen.css 
+2014-08-06 21:59:04 overwrite stylesheets/screen.css 
+2014-08-06 21:59:50 overwrite stylesheets/screen.css 
+2014-08-06 22:00:23 overwrite stylesheets/screen.css 
+2014-08-06 22:00:34 overwrite stylesheets/screen.css 
+2014-08-06 22:00:56 overwrite stylesheets/screen.css 
+2014-08-06 22:01:23 overwrite stylesheets/screen.css 
+2014-08-06 22:03:32 overwrite stylesheets/screen.css 
+2014-08-06 22:04:16 overwrite stylesheets/screen.css 
+2014-08-06 22:04:47 overwrite stylesheets/screen.css 
+2014-08-06 22:05:46 overwrite stylesheets/screen.css 
+2014-08-06 22:06:41 overwrite stylesheets/screen.css 
+2014-08-06 22:07:29 overwrite stylesheets/screen.css 
+2014-08-06 22:08:16 overwrite stylesheets/screen.css 
+2014-08-06 22:09:02 overwrite stylesheets/screen.css 
+2014-08-06 22:09:24 overwrite stylesheets/screen.css 
+2014-08-06 22:09:28 identical stylesheets/screen.css 
+2014-08-06 22:10:18 overwrite stylesheets/screen.css 
+2014-08-06 22:10:24 overwrite stylesheets/screen.css 
+2014-08-06 22:11:10 overwrite stylesheets/screen.css 
+2014-08-06 22:11:30 overwrite stylesheets/screen.css 
+2014-08-06 22:12:05 overwrite stylesheets/screen.css 
+2014-08-06 22:12:37 identical stylesheets/screen.css 
+2014-08-06 22:12:41 overwrite stylesheets/screen.css 
+2014-08-06 22:17:13 overwrite stylesheets/screen.css 
+2014-08-06 22:18:54 overwrite stylesheets/screen.css 
+2014-08-06 22:21:33 overwrite stylesheets/screen.css 
+2014-08-06 22:25:41 overwrite stylesheets/screen.css 
+2014-08-06 22:26:20 overwrite stylesheets/screen.css 
+2014-08-06 22:27:50 overwrite stylesheets/screen.css 
+2014-08-06 22:35:21 overwrite stylesheets/screen.css 
+2014-08-06 22:39:30     error sass/screen.scss (Line 44: Invalid CSS after "...t[type="radio"]": expected selector or at-rule, was "{")
+2014-08-06 22:39:30 overwrite stylesheets/screen.css 
+2014-08-06 22:39:47     error sass/screen.scss (Line 44: Invalid CSS after "...t[type="radio"]": expected selector or at-rule, was "{")
+2014-08-06 22:39:47 identical stylesheets/screen.css 
+2014-08-06 22:39:56 overwrite stylesheets/screen.css 
+2014-08-06 22:40:09 overwrite stylesheets/screen.css 
+2014-08-06 22:41:21 overwrite stylesheets/screen.css 
+2014-08-06 22:42:14 overwrite stylesheets/screen.css 
+2014-08-06 22:42:44 overwrite stylesheets/screen.css 
+2014-08-06 22:43:04 overwrite stylesheets/screen.css 
+2014-08-06 22:44:54 overwrite stylesheets/screen.css 
+2014-08-06 22:45:14 overwrite stylesheets/screen.css 
+2014-08-06 22:45:36 overwrite stylesheets/screen.css 
+2014-08-06 22:46:24 overwrite stylesheets/screen.css 
+2014-08-06 22:46:36 overwrite stylesheets/screen.css 
+2014-08-06 22:47:08 overwrite stylesheets/screen.css 
+2014-08-06 22:47:33 overwrite stylesheets/screen.css 
+2014-08-06 22:50:23 overwrite stylesheets/screen.css 
+2014-08-06 22:50:51 overwrite stylesheets/screen.css 
+2014-08-06 22:51:09 overwrite stylesheets/screen.css 
+2014-08-06 22:51:20 overwrite stylesheets/screen.css 
+2014-08-06 22:52:15 overwrite stylesheets/screen.css 
+2014-08-06 22:52:56 overwrite stylesheets/screen.css 
+2014-08-07 20:19:32 overwrite stylesheets/screen.css 
+2014-08-08 12:04:01 overwrite stylesheets/screen.css 
+2014-08-08 12:04:03     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:04:03 overwrite stylesheets/test.css 
+2014-08-08 12:06:27 overwrite stylesheets/screen.css 
+2014-08-08 12:06:27     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:06:27 overwrite stylesheets/test.css 
+2014-08-08 12:08:07 overwrite stylesheets/screen.css 
+2014-08-08 12:08:07     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:08:07 identical stylesheets/test.css 
+2014-08-08 12:09:13 overwrite stylesheets/screen.css 
+2014-08-08 12:09:13     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:09:13 overwrite stylesheets/test.css 
+2014-08-08 12:11:02 overwrite stylesheets/screen.css 
+2014-08-08 12:11:02     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:11:02 identical stylesheets/test.css 
+2014-08-08 12:20:11 overwrite stylesheets/screen.css 
+2014-08-08 12:20:11     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:20:11 identical stylesheets/test.css 
+2014-08-08 12:22:28 overwrite stylesheets/screen.css 
+2014-08-08 12:22:29     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:22:29 identical stylesheets/test.css 
+2014-08-08 12:26:39 overwrite stylesheets/screen.css 
+2014-08-08 12:26:39     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:26:39 identical stylesheets/test.css 
+2014-08-08 12:31:02 overwrite stylesheets/screen.css 
+2014-08-08 12:31:02     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:31:03 identical stylesheets/test.css 
+2014-08-08 12:31:23 identical stylesheets/screen.css 
+2014-08-08 12:31:23     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:31:23 identical stylesheets/test.css 
+2014-08-08 12:35:09 overwrite stylesheets/screen.css 
+2014-08-08 12:35:10     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:35:10 identical stylesheets/test.css 
+2014-08-08 12:55:55 identical stylesheets/screen.css 
+2014-08-08 12:55:55     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:55:55 identical stylesheets/test.css 
+2014-08-08 12:56:59 overwrite stylesheets/screen.css 
+2014-08-08 12:57:00     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:57:00 identical stylesheets/test.css 
+2014-08-08 12:57:58 overwrite stylesheets/screen.css 
+2014-08-08 12:57:58     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:57:58 identical stylesheets/test.css 
+2014-08-08 12:59:27 overwrite stylesheets/screen.css 
+2014-08-08 12:59:27     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:59:27 identical stylesheets/test.css 
+2014-08-08 12:59:46     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:59:46 identical stylesheets/test.css 
+2014-08-08 12:59:47 overwrite stylesheets/text.css 
+2014-08-08 12:59:54     error sass/test.scss (Line 3: File to import not found or unreadable: aesthetic-about.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-08 12:59:54 overwrite stylesheets/test.css 
+2014-08-08 13:00:24 identical stylesheets/screen.css 
+2014-08-08 13:01:20 overwrite stylesheets/screen.css 
+2014-08-08 13:03:07 overwrite stylesheets/screen.css 
+2014-08-08 13:03:51 overwrite stylesheets/screen.css 
+2014-08-08 13:04:17 overwrite stylesheets/screen.css 
+2014-08-08 13:07:58 overwrite stylesheets/screen.css 
+2014-08-08 13:09:19 overwrite stylesheets/screen.css 
+2014-08-08 13:09:42 overwrite stylesheets/screen.css 
+2014-08-08 13:10:02 overwrite stylesheets/screen.css 
+2014-08-08 13:10:58 overwrite stylesheets/screen.css 
+2014-08-08 13:11:32 overwrite stylesheets/screen.css 
+2014-08-08 13:11:55 overwrite stylesheets/screen.css 
+2014-08-08 13:12:12 overwrite stylesheets/screen.css 
+2014-08-08 13:12:24 identical stylesheets/screen.css 
+2014-08-08 13:20:46 overwrite stylesheets/screen.css 
+2014-08-08 13:21:03 overwrite stylesheets/screen.css 
+2014-08-08 13:21:23 overwrite stylesheets/screen.css 
+2014-08-08 13:21:49 overwrite stylesheets/screen.css 
+2014-08-08 13:22:08 overwrite stylesheets/screen.css 
+2014-08-08 13:26:55     error sass/screen.scss (Line 9: Invalid CSS after ".": expected class name, was ".aesthetic-main{")
+2014-08-08 13:26:55 overwrite stylesheets/screen.css 
+2014-08-08 13:27:08 overwrite stylesheets/screen.css 
+2014-08-08 13:27:32 overwrite stylesheets/screen.css 
+2014-08-08 13:28:30 overwrite stylesheets/screen.css 
+2014-08-08 13:28:58 overwrite stylesheets/screen.css 
+2014-08-08 13:30:08 overwrite stylesheets/screen.css 
+2014-08-08 13:31:51 overwrite stylesheets/screen.css 
+2014-08-08 13:32:22 overwrite stylesheets/screen.css 
+2014-08-08 13:32:25 identical stylesheets/screen.css 
+2014-08-08 13:32:43 overwrite stylesheets/screen.css 
+2014-08-08 13:33:39 overwrite stylesheets/screen.css 
+2014-08-08 13:33:53 overwrite stylesheets/screen.css 
+2014-08-08 13:34:08 overwrite stylesheets/screen.css 
+2014-08-08 13:34:30 overwrite stylesheets/screen.css 
+2014-08-08 13:34:55 overwrite stylesheets/screen.css 
+2014-08-08 13:35:30 overwrite stylesheets/screen.css 
+2014-08-08 13:35:40 overwrite stylesheets/screen.css 
+2014-08-08 13:36:27 overwrite stylesheets/screen.css 
+2014-08-08 13:36:33 overwrite stylesheets/screen.css 
+2014-08-08 13:36:45 overwrite stylesheets/screen.css 
+2014-08-08 13:37:55 overwrite stylesheets/screen.css 
+2014-08-08 13:39:28 overwrite stylesheets/screen.css 
+2014-08-08 13:39:50 overwrite stylesheets/screen.css 
+2014-08-08 13:41:38 overwrite stylesheets/screen.css 
+2014-08-08 13:42:38 overwrite stylesheets/screen.css 
+2014-08-08 13:43:01 overwrite stylesheets/screen.css 
+2014-08-08 13:47:59 overwrite stylesheets/screen.css 
+2014-08-08 13:48:45 overwrite stylesheets/screen.css 
+2014-08-08 13:49:12 overwrite stylesheets/screen.css 
+2014-08-08 13:49:50 overwrite stylesheets/screen.css 
+2014-08-08 13:50:11 overwrite stylesheets/screen.css 
+2014-08-08 13:50:30 overwrite stylesheets/screen.css 
+2014-08-08 13:50:36 overwrite stylesheets/screen.css 
+2014-08-08 13:51:17 overwrite stylesheets/screen.css 
+2014-08-08 13:51:35 overwrite stylesheets/screen.css 
+2014-08-08 13:51:50 overwrite stylesheets/screen.css 
+2014-08-08 13:52:36 overwrite stylesheets/screen.css 
+2014-08-08 13:53:35 overwrite stylesheets/screen.css 
+2014-08-08 13:54:08 overwrite stylesheets/screen.css 
+2014-08-08 13:54:42 overwrite stylesheets/screen.css 
+2014-08-08 13:55:08 overwrite stylesheets/screen.css 
+2014-08-08 13:55:40 overwrite stylesheets/screen.css 
+2014-08-08 13:56:07 overwrite stylesheets/screen.css 
+2014-08-08 13:56:20 overwrite stylesheets/screen.css 
+2014-08-08 13:57:17 overwrite stylesheets/screen.css 
+2014-08-08 13:57:37 overwrite stylesheets/screen.css 
+2014-08-08 13:58:02 overwrite stylesheets/screen.css 
+2014-08-08 13:58:12 overwrite stylesheets/screen.css 
+2014-08-08 13:58:23 overwrite stylesheets/screen.css 
+2014-08-08 13:58:41 overwrite stylesheets/screen.css 
+2014-08-08 13:59:33 overwrite stylesheets/screen.css 
+2014-08-08 13:59:49 overwrite stylesheets/screen.css 
+2014-08-08 14:04:59 overwrite stylesheets/screen.css 
+2014-08-08 14:05:42 overwrite stylesheets/screen.css 
+2014-08-08 14:06:18 overwrite stylesheets/screen.css 
+2014-08-08 14:06:49 overwrite stylesheets/screen.css 
+2014-08-08 14:06:59 overwrite stylesheets/screen.css 
+2014-08-08 14:08:27 overwrite stylesheets/screen.css 
+2014-08-08 14:08:42 overwrite stylesheets/screen.css 
+2014-08-08 14:08:48 overwrite stylesheets/screen.css 
+2014-08-08 14:09:21 overwrite stylesheets/screen.css 
+2014-08-08 14:09:46 overwrite stylesheets/screen.css 
+2014-08-08 14:10:29 overwrite stylesheets/screen.css 
+2014-08-08 14:10:52 overwrite stylesheets/screen.css 
+2014-08-08 14:11:22 overwrite stylesheets/screen.css 
+2014-08-08 14:11:40 overwrite stylesheets/screen.css 
+2014-08-08 14:13:09 overwrite stylesheets/screen.css 
+2014-08-08 14:14:28 overwrite stylesheets/screen.css 
+2014-08-08 14:18:11 overwrite stylesheets/screen.css 
+2014-08-08 14:20:43 overwrite stylesheets/screen.css 
+2014-08-08 14:21:21 overwrite stylesheets/screen.css 
+2014-08-08 14:21:45 overwrite stylesheets/screen.css 
+2014-08-08 14:21:49 identical stylesheets/screen.css 
+2014-08-08 14:22:41 overwrite stylesheets/screen.css 
+2014-08-08 14:23:25 overwrite stylesheets/screen.css 
+2014-08-08 14:24:00 overwrite stylesheets/screen.css 
+2014-08-08 14:24:16 overwrite stylesheets/screen.css 
+2014-08-08 14:24:28 overwrite stylesheets/screen.css 
+2014-08-08 14:25:04 overwrite stylesheets/screen.css 
+2014-08-08 14:25:51 overwrite stylesheets/screen.css 
+2014-08-08 14:26:17     error sass/screen.scss (Line 18: Invalid CSS after "	height: ": expected expression (e.g. 1px, bold), was ";")
+2014-08-08 14:26:17 overwrite stylesheets/screen.css 
+2014-08-08 14:26:37 overwrite stylesheets/screen.css 
+2014-08-08 14:26:53 overwrite stylesheets/screen.css 
+2014-08-08 14:27:20 overwrite stylesheets/screen.css 
+2014-08-08 14:29:19 overwrite stylesheets/screen.css 
+2014-08-08 14:30:02 overwrite stylesheets/screen.css 
+2014-08-08 14:30:21 overwrite stylesheets/screen.css 
+2014-08-08 14:30:52 overwrite stylesheets/screen.css 
+2014-08-08 14:31:15 overwrite stylesheets/screen.css 
+2014-08-08 14:31:33 overwrite stylesheets/screen.css 
+2014-08-08 14:32:09 overwrite stylesheets/screen.css 
+2014-08-08 14:32:12 overwrite stylesheets/screen.css 
+2014-08-08 14:34:09 overwrite stylesheets/screen.css 
+2014-08-08 14:45:00 overwrite stylesheets/screen.css 
+2014-08-08 14:45:31 overwrite stylesheets/screen.css 
+2014-08-08 14:46:01 overwrite stylesheets/screen.css 
+2014-08-08 14:47:12 overwrite stylesheets/screen.css 
+2014-08-08 14:47:53 overwrite stylesheets/screen.css 
+2014-08-08 14:48:28 overwrite stylesheets/screen.css 
+2014-08-08 14:49:02 overwrite stylesheets/screen.css 
+2014-08-08 14:49:40 overwrite stylesheets/screen.css 
+2014-08-08 14:51:28 overwrite stylesheets/screen.css 
+2014-08-08 14:52:06 overwrite stylesheets/screen.css 
+2014-08-08 14:52:27 overwrite stylesheets/screen.css 
+2014-08-08 14:53:20 overwrite stylesheets/screen.css 
+2014-08-08 14:54:08 overwrite stylesheets/screen.css 
+2014-08-08 14:54:57 overwrite stylesheets/screen.css 
+2014-08-08 14:55:16 overwrite stylesheets/screen.css 
+2014-08-08 14:56:53 overwrite stylesheets/screen.css 
+2014-08-08 14:59:50     error sass/screen.scss (Line 93: Invalid CSS after "		font-weight:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 14:59:50 overwrite stylesheets/screen.css 
+2014-08-08 15:00:09 overwrite stylesheets/screen.css 
+2014-08-08 15:00:23     error sass/screen.scss (Line 93: Invalid CSS after "		font-weight:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 15:00:23 overwrite stylesheets/screen.css 
+2014-08-08 15:00:34 overwrite stylesheets/screen.css 
+2014-08-08 15:01:22 overwrite stylesheets/screen.css 
+2014-08-08 15:02:48 overwrite stylesheets/screen.css 
+2014-08-08 15:03:23 overwrite stylesheets/screen.css 
+2014-08-08 15:06:35     error sass/screen.scss (Line 33: Undefined variable: "$Loto-font".)
+2014-08-08 15:06:35 overwrite stylesheets/screen.css 
+2014-08-08 15:06:57 overwrite stylesheets/screen.css 
+2014-08-08 15:07:25 overwrite stylesheets/screen.css 
+2014-08-08 15:13:37 overwrite stylesheets/screen.css 
+2014-08-08 15:13:50 overwrite stylesheets/screen.css 
+2014-08-08 15:14:32 overwrite stylesheets/screen.css 
+2014-08-08 15:24:59 overwrite stylesheets/screen.css 
+2014-08-08 15:25:42 overwrite stylesheets/screen.css 
+2014-08-08 15:26:17 overwrite stylesheets/screen.css 
+2014-08-08 15:26:32 overwrite stylesheets/screen.css 
+2014-08-08 15:26:51 overwrite stylesheets/screen.css 
+2014-08-08 15:30:13 overwrite stylesheets/screen.css 
+2014-08-08 15:30:44 identical stylesheets/screen.css 
+2014-08-08 15:32:31 overwrite stylesheets/screen.css 
+2014-08-08 15:33:06 overwrite stylesheets/screen.css 
+2014-08-08 15:33:19 overwrite stylesheets/screen.css 
+2014-08-08 15:33:36 overwrite stylesheets/screen.css 
+2014-08-08 15:33:51 overwrite stylesheets/screen.css 
+2014-08-08 15:35:43 overwrite stylesheets/screen.css 
+2014-08-08 15:36:14 overwrite stylesheets/screen.css 
+2014-08-08 15:37:29 overwrite stylesheets/screen.css 
+2014-08-08 15:38:01 overwrite stylesheets/screen.css 
+2014-08-08 15:39:32 overwrite stylesheets/screen.css 
+2014-08-08 15:41:13 overwrite stylesheets/screen.css 
+2014-08-08 15:41:40 overwrite stylesheets/screen.css 
+2014-08-08 15:42:27 overwrite stylesheets/screen.css 
+2014-08-08 15:42:58 overwrite stylesheets/screen.css 
+2014-08-08 15:43:21 overwrite stylesheets/screen.css 
+2014-08-08 15:43:38 overwrite stylesheets/screen.css 
+2014-08-08 15:45:44 overwrite stylesheets/screen.css 
+2014-08-08 15:46:14 overwrite stylesheets/screen.css 
+2014-08-08 15:47:09 overwrite stylesheets/screen.css 
+2014-08-08 15:47:45 overwrite stylesheets/screen.css 
+2014-08-08 15:48:01 overwrite stylesheets/screen.css 
+2014-08-08 15:54:50 overwrite stylesheets/screen.css 
+2014-08-08 15:55:03 overwrite stylesheets/screen.css 
+2014-08-08 15:56:44 overwrite stylesheets/screen.css 
+2014-08-08 15:56:48 overwrite stylesheets/screen.css 
+2014-08-08 15:58:41 overwrite stylesheets/screen.css 
+2014-08-08 15:59:07 overwrite stylesheets/screen.css 
+2014-08-08 15:59:31 overwrite stylesheets/screen.css 
+2014-08-08 16:00:11 overwrite stylesheets/screen.css 
+2014-08-08 16:00:31 overwrite stylesheets/screen.css 
+2014-08-08 16:00:38 overwrite stylesheets/screen.css 
+2014-08-08 16:01:18 overwrite stylesheets/screen.css 
+2014-08-08 16:03:50 overwrite stylesheets/screen.css 
+2014-08-08 16:18:52     error sass/screen.scss (Line 102: Invalid CSS after "		padding:": expected pseudoclass or pseudoelement, was " 10px 0 0 20px;")
+2014-08-08 16:18:52 overwrite stylesheets/screen.css 
+2014-08-08 16:19:04     error sass/screen.scss (Line 102: Invalid CSS after "		padding:": expected pseudoclass or pseudoelement, was " 10px 0 0 20px;")
+2014-08-08 16:19:04 identical stylesheets/screen.css 
+2014-08-08 16:19:08 overwrite stylesheets/screen.css 
+2014-08-08 16:19:44 overwrite stylesheets/screen.css 
+2014-08-08 16:21:05 overwrite stylesheets/screen.css 
+2014-08-08 16:21:18 overwrite stylesheets/screen.css 
+2014-08-08 16:23:45 overwrite stylesheets/screen.css 
+2014-08-08 16:24:00 overwrite stylesheets/screen.css 
+2014-08-08 16:24:41 overwrite stylesheets/screen.css 
+2014-08-08 16:25:30 overwrite stylesheets/screen.css 
+2014-08-08 16:28:37 overwrite stylesheets/screen.css 
+2014-08-08 16:32:03 overwrite stylesheets/screen.css 
+2014-08-08 16:32:22 overwrite stylesheets/screen.css 
+2014-08-08 16:34:17 overwrite stylesheets/screen.css 
+2014-08-08 16:34:36 overwrite stylesheets/screen.css 
+2014-08-08 16:34:59 overwrite stylesheets/screen.css 
+2014-08-08 16:35:17 overwrite stylesheets/screen.css 
+2014-08-08 16:36:01 overwrite stylesheets/screen.css 
+2014-08-08 16:37:14 overwrite stylesheets/screen.css 
+2014-08-08 16:37:26 overwrite stylesheets/screen.css 
+2014-08-08 16:37:39 overwrite stylesheets/screen.css 
+2014-08-08 16:37:53 overwrite stylesheets/screen.css 
+2014-08-08 16:41:13 overwrite stylesheets/screen.css 
+2014-08-08 20:26:06 overwrite stylesheets/screen.css 
+2014-08-08 20:26:44 overwrite stylesheets/screen.css 
+2014-08-08 20:27:05 overwrite stylesheets/screen.css 
+2014-08-08 20:28:48 overwrite stylesheets/screen.css 
+2014-08-08 20:29:22 overwrite stylesheets/screen.css 
+2014-08-08 20:29:30 identical stylesheets/screen.css 
+2014-08-08 20:30:11 overwrite stylesheets/screen.css 
+2014-08-08 20:31:51 overwrite stylesheets/screen.css 
+2014-08-08 20:32:47 overwrite stylesheets/screen.css 
+2014-08-08 20:33:22 overwrite stylesheets/screen.css 
+2014-08-08 20:33:40 overwrite stylesheets/screen.css 
+2014-08-08 20:36:23 overwrite stylesheets/screen.css 
+2014-08-08 20:36:52 overwrite stylesheets/screen.css 
+2014-08-08 20:37:34 overwrite stylesheets/screen.css 
+2014-08-08 20:37:56 overwrite stylesheets/screen.css 
+2014-08-08 20:38:14 overwrite stylesheets/screen.css 
+2014-08-08 20:40:26 overwrite stylesheets/screen.css 
+2014-08-08 20:41:16 overwrite stylesheets/screen.css 
+2014-08-08 20:41:51 overwrite stylesheets/screen.css 
+2014-08-08 20:45:27 overwrite stylesheets/screen.css 
+2014-08-08 20:45:57 overwrite stylesheets/screen.css 
+2014-08-08 20:46:35 overwrite stylesheets/screen.css 
+2014-08-08 20:47:31 overwrite stylesheets/screen.css 
+2014-08-08 20:49:33 overwrite stylesheets/screen.css 
+2014-08-08 20:50:27 overwrite stylesheets/screen.css 
+2014-08-08 20:50:41 overwrite stylesheets/screen.css 
+2014-08-08 20:51:06 overwrite stylesheets/screen.css 
+2014-08-08 20:51:17 overwrite stylesheets/screen.css 
+2014-08-08 20:51:45 overwrite stylesheets/screen.css 
+2014-08-08 20:52:01 overwrite stylesheets/screen.css 
+2014-08-08 20:52:29 overwrite stylesheets/screen.css 
+2014-08-08 20:52:40 overwrite stylesheets/screen.css 
+2014-08-08 20:53:20 overwrite stylesheets/screen.css 
+2014-08-08 20:53:34 overwrite stylesheets/screen.css 
+2014-08-08 20:53:52 overwrite stylesheets/screen.css 
+2014-08-08 20:54:02 overwrite stylesheets/screen.css 
+2014-08-08 20:55:07 overwrite stylesheets/screen.css 
+2014-08-08 20:55:38 overwrite stylesheets/screen.css 
+2014-08-08 20:56:29 overwrite stylesheets/screen.css 
+2014-08-08 20:57:18 identical stylesheets/screen.css 
+2014-08-08 20:59:31 overwrite stylesheets/screen.css 
+2014-08-08 21:08:14 overwrite stylesheets/screen.css 
+2014-08-08 21:11:22 overwrite stylesheets/screen.css 
+2014-08-08 21:11:38 overwrite stylesheets/screen.css 
+2014-08-08 21:11:58 overwrite stylesheets/screen.css 
+2014-08-08 21:12:11 identical stylesheets/screen.css 
+2014-08-08 21:26:41 overwrite stylesheets/screen.css 
+2014-08-08 21:48:25 overwrite stylesheets/screen.css 
+2014-08-08 21:48:59 overwrite stylesheets/screen.css 
+2014-08-08 21:54:04 overwrite stylesheets/screen.css 
+2014-08-08 21:55:07 overwrite stylesheets/screen.css 
+2014-08-08 21:56:16 overwrite stylesheets/screen.css 
+2014-08-08 21:57:12 overwrite stylesheets/screen.css 
+2014-08-08 21:58:12 identical stylesheets/screen.css 
+2014-08-08 21:58:42 overwrite stylesheets/screen.css 
+2014-08-08 21:59:19 overwrite stylesheets/screen.css 
+2014-08-08 21:59:50 overwrite stylesheets/screen.css 
+2014-08-08 22:00:27 overwrite stylesheets/screen.css 
+2014-08-08 22:02:35 overwrite stylesheets/screen.css 
+2014-08-08 22:02:57     error sass/screen.scss (Line 141: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-08 22:02:57 overwrite stylesheets/screen.css 
+2014-08-08 22:03:10 overwrite stylesheets/screen.css 
+2014-08-08 22:03:30 identical stylesheets/screen.css 
+2014-08-08 22:09:18 overwrite stylesheets/screen.css 
+2014-08-08 22:09:31 overwrite stylesheets/screen.css 
+2014-08-08 22:09:58 overwrite stylesheets/screen.css 
+2014-08-08 22:10:26 overwrite stylesheets/screen.css 
+2014-08-08 22:11:29 overwrite stylesheets/screen.css 
+2014-08-08 22:12:20 overwrite stylesheets/screen.css 
+2014-08-08 22:13:16 overwrite stylesheets/screen.css 
+2014-08-08 22:13:38 overwrite stylesheets/screen.css 
+2014-08-08 22:13:59 overwrite stylesheets/screen.css 
+2014-08-08 22:15:07 overwrite stylesheets/screen.css 
+2014-08-08 22:15:21 overwrite stylesheets/screen.css 
+2014-08-08 22:15:43 overwrite stylesheets/screen.css 
+2014-08-08 22:16:01 overwrite stylesheets/screen.css 
+2014-08-08 22:16:18 overwrite stylesheets/screen.css 
+2014-08-08 22:16:44 overwrite stylesheets/screen.css 
+2014-08-08 22:18:50 overwrite stylesheets/screen.css 
+2014-08-08 22:30:43 overwrite stylesheets/screen.css 
+2014-08-08 22:35:03     error sass/screen.scss (Line 146: Invalid CSS after "}": expected "}", was "")
+2014-08-08 22:35:03 overwrite stylesheets/screen.css 
+2014-08-08 22:35:11     error sass/screen.scss (Line 146: Invalid CSS after "		}": expected "}", was "")
+2014-08-08 22:35:11 overwrite stylesheets/screen.css 
+2014-08-08 22:35:24     error sass/screen.scss (Line 141: Invalid CSS after "		}": expected "}", was "")
+2014-08-08 22:35:24 overwrite stylesheets/screen.css 
+2014-08-08 22:38:07     error sass/screen.scss (Line 141: Invalid CSS after "			}": expected "}", was "")
+2014-08-08 22:38:07 overwrite stylesheets/screen.css 
+2014-08-08 22:38:25     error sass/screen.scss (Line 141: Invalid CSS after "}": expected "}", was "")
+2014-08-08 22:38:25 overwrite stylesheets/screen.css 
+2014-08-08 22:38:33     error sass/screen.scss (Line 141: Invalid CSS after "}": expected "}", was "")
+2014-08-08 22:38:33 identical stylesheets/screen.css 
+2014-08-08 22:38:56 overwrite stylesheets/screen.css 
+2014-08-08 22:39:33 overwrite stylesheets/screen.css 
+2014-08-08 22:39:40 overwrite stylesheets/screen.css 
+2014-08-08 22:40:13 overwrite stylesheets/screen.css 
+2014-08-08 22:40:49     error sass/screen.scss (Line 140: Invalid CSS after "			}": expected "}", was "")
+2014-08-08 22:40:49 overwrite stylesheets/screen.css 
+2014-08-08 22:41:09 overwrite stylesheets/screen.css 
+2014-08-08 22:41:27 overwrite stylesheets/screen.css 
+2014-08-08 22:41:52 overwrite stylesheets/screen.css 
+2014-08-08 22:42:40 overwrite stylesheets/screen.css 
+2014-08-08 22:43:17 overwrite stylesheets/screen.css 
+2014-08-08 23:22:16 overwrite stylesheets/screen.css 
+2014-08-08 23:27:19 overwrite stylesheets/screen.css 
+2014-08-08 23:28:49 overwrite stylesheets/screen.css 
+2014-08-09 11:30:37 overwrite stylesheets/screen.css 
+2014-08-09 11:34:35 overwrite stylesheets/screen.css 
+2014-08-09 11:35:11 overwrite stylesheets/screen.css 
+2014-08-09 11:35:37 overwrite stylesheets/screen.css 
+2014-08-09 11:35:57 overwrite stylesheets/screen.css 
+2014-08-09 11:36:00 overwrite stylesheets/screen.css 
+2014-08-09 11:37:18 overwrite stylesheets/screen.css 
+2014-08-09 11:43:07 overwrite stylesheets/screen.css 
+2014-08-09 11:43:28 overwrite stylesheets/screen.css 
+2014-08-09 11:43:51 overwrite stylesheets/screen.css 
+2014-08-09 11:45:59 overwrite stylesheets/screen.css 
+2014-08-09 11:46:28 overwrite stylesheets/screen.css 
+2014-08-09 11:48:42 overwrite stylesheets/screen.css 
+2014-08-09 11:48:56 overwrite stylesheets/screen.css 
+2014-08-09 11:49:43 overwrite stylesheets/screen.css 
+2014-08-09 11:50:25 overwrite stylesheets/screen.css 
+2014-08-09 11:50:58 overwrite stylesheets/screen.css 
+2014-08-09 12:14:13 overwrite stylesheets/screen.css 
+2014-08-09 12:21:12 overwrite stylesheets/screen.css 
+2014-08-09 12:21:49 overwrite stylesheets/screen.css 
+2014-08-09 12:22:11 overwrite stylesheets/screen.css 
+2014-08-09 12:22:21 overwrite stylesheets/screen.css 
+2014-08-09 12:22:36 overwrite stylesheets/screen.css 
+2014-08-09 12:22:49 overwrite stylesheets/screen.css 
+2014-08-09 12:23:05 overwrite stylesheets/screen.css 
+2014-08-09 12:24:25 overwrite stylesheets/screen.css 
+2014-08-09 12:25:50 overwrite stylesheets/screen.css 
+2014-08-09 12:25:53 overwrite stylesheets/screen.css 
+2014-08-09 12:26:24 overwrite stylesheets/screen.css 
+2014-08-09 12:27:15 overwrite stylesheets/screen.css 
+2014-08-09 12:32:48 overwrite stylesheets/screen.css 
+2014-08-09 12:33:04     error sass/screen.scss (Line 144: Invalid CSS after "}": expected "}", was "")
+2014-08-09 12:33:04 overwrite stylesheets/screen.css 
+2014-08-09 12:33:23 overwrite stylesheets/screen.css 
+2014-08-09 12:34:15 overwrite stylesheets/screen.css 
+2014-08-09 12:34:43     error sass/screen.scss (Line 144: Invalid CSS after "}": expected "}", was "")
+2014-08-09 12:34:43 overwrite stylesheets/screen.css 
+2014-08-09 12:35:18 overwrite stylesheets/screen.css 
+2014-08-09 12:36:08 overwrite stylesheets/screen.css 
+2014-08-09 12:38:13 overwrite stylesheets/screen.css 
+2014-08-09 12:40:34 overwrite stylesheets/screen.css 
+2014-08-09 12:40:53 overwrite stylesheets/screen.css 
+2014-08-09 12:42:07 overwrite stylesheets/screen.css 
+2014-08-09 12:42:28 overwrite stylesheets/screen.css 
+2014-08-09 12:42:46 overwrite stylesheets/screen.css 
+2014-08-09 12:43:07 overwrite stylesheets/screen.css 
+2014-08-09 12:44:13 overwrite stylesheets/screen.css 
+2014-08-09 12:45:35 overwrite stylesheets/screen.css 
+2014-08-09 12:50:53 overwrite stylesheets/screen.css 
+2014-08-09 12:53:47 overwrite stylesheets/screen.css 
+2014-08-09 12:55:30 overwrite stylesheets/screen.css 
+2014-08-09 12:56:14 overwrite stylesheets/screen.css 
+2014-08-09 12:56:39 overwrite stylesheets/screen.css 
+2014-08-09 13:42:33 overwrite stylesheets/screen.css 
+2014-08-09 13:51:01     error sass/screen.scss (Line 157: Invalid CSS after "}": expected "}", was "")
+2014-08-09 13:51:01 overwrite stylesheets/screen.css 
+2014-08-09 13:51:36 overwrite stylesheets/screen.css 
+2014-08-09 13:52:05 overwrite stylesheets/screen.css 
+2014-08-09 13:53:52 overwrite stylesheets/screen.css 
+2014-08-09 16:54:02 overwrite stylesheets/screen.css 
+2014-08-10 10:55:38 overwrite stylesheets/screen.css 
+2014-08-10 10:59:00 overwrite stylesheets/screen.css 
+2014-08-10 10:59:38 overwrite stylesheets/screen.css 
+2014-08-10 11:00:24 overwrite stylesheets/screen.css 
+2014-08-10 11:00:36 overwrite stylesheets/screen.css 
+2014-08-10 11:00:40 identical stylesheets/screen.css 
+2014-08-10 11:00:57 overwrite stylesheets/screen.css 
+2014-08-10 11:03:04 overwrite stylesheets/screen.css 
+2014-08-10 11:04:25 overwrite stylesheets/screen.css 
+2014-08-10 11:04:40 overwrite stylesheets/screen.css 
+2014-08-10 11:05:37 overwrite stylesheets/screen.css 
+2014-08-10 11:05:58 overwrite stylesheets/screen.css 
+2014-08-10 11:08:54 overwrite stylesheets/screen.css 
+2014-08-10 11:16:08 overwrite stylesheets/screen.css 
+2014-08-10 11:16:48 overwrite stylesheets/screen.css 
+2014-08-10 11:17:03 overwrite stylesheets/screen.css 
+2014-08-10 11:17:27 overwrite stylesheets/screen.css 
+2014-08-10 11:17:57 overwrite stylesheets/screen.css 
+2014-08-10 11:25:10 overwrite stylesheets/screen.css 
+2014-08-10 11:25:14 overwrite stylesheets/screen.css 
+2014-08-10 11:31:13 overwrite stylesheets/screen.css 
+2014-08-10 11:32:24 overwrite stylesheets/screen.css 
+2014-08-10 11:33:06 overwrite stylesheets/screen.css 
+2014-08-10 11:33:42 overwrite stylesheets/screen.css 
+2014-08-10 11:56:57 overwrite stylesheets/screen.css 
+2014-08-10 11:58:03 overwrite stylesheets/screen.css 
+2014-08-10 11:59:32 overwrite stylesheets/screen.css 
+2014-08-10 12:02:24 overwrite stylesheets/screen.css 
+2014-08-10 12:09:50 overwrite stylesheets/screen.css 
+2014-08-10 12:10:45 overwrite stylesheets/screen.css 
+2014-08-10 12:13:09 overwrite stylesheets/screen.css 
+2014-08-10 12:23:06 overwrite stylesheets/screen.css 
+2014-08-10 12:25:06 overwrite stylesheets/screen.css 
+2014-08-10 12:25:22 overwrite stylesheets/screen.css 
+2014-08-10 12:33:42 overwrite stylesheets/screen.css 
+2014-08-10 12:36:21 overwrite stylesheets/screen.css 
+2014-08-10 12:36:52 overwrite stylesheets/screen.css 
+2014-08-10 12:39:37 overwrite stylesheets/screen.css 
+2014-08-10 12:43:42     error sass/screen.scss (Line 201: Invalid CSS after "		color:": expected expression (e.g. 1px, bold), was "}")
+2014-08-10 12:43:42 overwrite stylesheets/screen.css 
+2014-08-10 12:45:24 overwrite stylesheets/screen.css 
+2014-08-10 12:47:27 overwrite stylesheets/screen.css 
+2014-08-10 13:00:16 overwrite stylesheets/screen.css 
+2014-08-10 13:02:29 overwrite stylesheets/screen.css 
+2014-08-10 13:05:32 overwrite stylesheets/screen.css 
+2014-08-10 13:22:26 overwrite stylesheets/screen.css 
+2014-08-10 13:22:30 identical stylesheets/screen.css 
+2014-08-10 13:23:17 overwrite stylesheets/screen.css 
+2014-08-10 13:23:37 overwrite stylesheets/screen.css 
+2014-08-10 13:24:07 overwrite stylesheets/screen.css 
+2014-08-10 13:24:50 overwrite stylesheets/screen.css 
+2014-08-10 13:29:37 overwrite stylesheets/screen.css 
+2014-08-10 13:29:58 overwrite stylesheets/screen.css 
+2014-08-10 13:30:22 overwrite stylesheets/screen.css 
+2014-08-10 13:30:30 identical stylesheets/screen.css 
+2014-08-10 13:30:59 overwrite stylesheets/screen.css 
+2014-08-10 13:31:37 overwrite stylesheets/screen.css 
+2014-08-10 13:31:57 overwrite stylesheets/screen.css 
+2014-08-10 13:32:07 overwrite stylesheets/screen.css 
+2014-08-10 13:33:12 overwrite stylesheets/screen.css 
+2014-08-10 13:33:25 overwrite stylesheets/screen.css 
+2014-08-10 14:16:18 overwrite stylesheets/screen.css 
+2014-08-10 14:16:48 overwrite stylesheets/screen.css 
+2014-08-10 14:17:02 overwrite stylesheets/screen.css 
+2014-08-10 14:17:20 overwrite stylesheets/screen.css 
+2014-08-10 14:18:04 overwrite stylesheets/screen.css 
+2014-08-10 14:18:48 overwrite stylesheets/screen.css 
+2014-08-10 14:19:51 overwrite stylesheets/screen.css 
+2014-08-10 14:20:03 overwrite stylesheets/screen.css 
+2014-08-10 14:20:18 overwrite stylesheets/screen.css 
+2014-08-10 14:27:01 overwrite stylesheets/screen.css 
+2014-08-10 14:28:13 overwrite stylesheets/screen.css 
+2014-08-10 14:28:29 overwrite stylesheets/screen.css 
+2014-08-10 14:29:05 overwrite stylesheets/screen.css 
+2014-08-10 14:29:29 overwrite stylesheets/screen.css 
+2014-08-10 14:29:43 overwrite stylesheets/screen.css 
+2014-08-10 14:29:54 overwrite stylesheets/screen.css 
+2014-08-10 14:30:15 overwrite stylesheets/screen.css 
+2014-08-10 14:32:11 overwrite stylesheets/screen.css 
+2014-08-10 14:33:35 overwrite stylesheets/screen.css 
+2014-08-10 14:43:51 overwrite stylesheets/screen.css 
+2014-08-10 14:47:45 overwrite stylesheets/screen.css 
+2014-08-10 14:48:55 overwrite stylesheets/screen.css 
+2014-08-10 14:49:22 overwrite stylesheets/screen.css 
+2014-08-10 14:49:48 overwrite stylesheets/screen.css 
+2014-08-10 14:50:25 overwrite stylesheets/screen.css 
+2014-08-10 14:50:43 overwrite stylesheets/screen.css 
+2014-08-10 14:53:06 overwrite stylesheets/screen.css 
+2014-08-10 15:04:17 overwrite stylesheets/screen.css 
+2014-08-10 15:05:26 overwrite stylesheets/screen.css 
+2014-08-10 15:05:42 overwrite stylesheets/screen.css 
+2014-08-10 15:06:10 overwrite stylesheets/screen.css 
+2014-08-10 15:40:52     error sass/screen.scss (Line 243: Invalid CSS after "...xt-align: left;": expected "}", was "")
+2014-08-10 15:40:52 overwrite stylesheets/screen.css 
+2014-08-10 15:41:13 overwrite stylesheets/screen.css 
+2014-08-10 15:43:12 overwrite stylesheets/screen.css 
+2014-08-10 15:46:56     error sass/screen.scss (Line 260: Undefined variable: "$tabs-base-color".)
+2014-08-10 15:46:56 overwrite stylesheets/screen.css 
+2014-08-10 15:48:43     error sass/screen.scss (Line 264: Undefined mixin 'transition'.)
+2014-08-10 15:48:43 overwrite stylesheets/screen.css 
+2014-08-10 15:49:31     error sass/screen.scss (Line 265: Undefined mixin 'transition'.)
+2014-08-10 15:49:31 overwrite stylesheets/screen.css 
+2014-08-10 15:50:47     error sass/screen.scss (Line 8: Invalid CSS after "%": expected placeholder name, was " box-sizing(bor...")
+2014-08-10 15:50:47 overwrite stylesheets/screen.css 
+2014-08-10 15:51:25     error sass/screen.scss (Line 265: Undefined mixin 'transition'.)
+2014-08-10 15:51:25 overwrite stylesheets/screen.css 
+2014-08-10 15:52:15     error sass/screen.scss (Line 304: Undefined mixin 'transition'.)
+2014-08-10 15:52:15 overwrite stylesheets/screen.css 
+2014-08-10 15:52:50 overwrite stylesheets/screen.css 
+2014-08-10 15:53:35 overwrite stylesheets/screen.css 
+2014-08-10 16:03:05     error sass/screen.scss (Line 244: Undefined mixin 'box-sizing'.)
+2014-08-10 16:03:05 overwrite stylesheets/screen.css 
+2014-08-10 16:03:28     error sass/screen.scss (Line 244: Undefined mixin 'box-sizing'.)
+2014-08-10 16:03:28 identical stylesheets/screen.css 
+2014-08-10 16:04:16     error sass/screen.scss (Line 244: Undefined mixin 'box-sizing'.)
+2014-08-10 16:04:16 identical stylesheets/screen.css 
+2014-08-10 16:07:27 overwrite stylesheets/screen.css 
+2014-08-10 20:05:42 overwrite stylesheets/screen.css 
+2014-08-10 20:06:15 overwrite stylesheets/screen.css 
+2014-08-10 20:08:08 overwrite stylesheets/screen.css 
+2014-08-10 20:08:42 overwrite stylesheets/screen.css 
+2014-08-10 20:09:16 overwrite stylesheets/screen.css 
+2014-08-10 20:09:33 overwrite stylesheets/screen.css 
+2014-08-10 20:10:19 overwrite stylesheets/screen.css 
+2014-08-10 20:10:51 overwrite stylesheets/screen.css 
+2014-08-10 20:11:36 overwrite stylesheets/screen.css 
+2014-08-10 20:12:02 overwrite stylesheets/screen.css 
+2014-08-10 20:12:19 overwrite stylesheets/screen.css 
+2014-08-10 20:12:53 overwrite stylesheets/screen.css 
+2014-08-10 20:13:17 overwrite stylesheets/screen.css 
+2014-08-10 20:13:47 overwrite stylesheets/screen.css 
+2014-08-10 20:14:12 overwrite stylesheets/screen.css 
+2014-08-10 20:14:28 overwrite stylesheets/screen.css 
+2014-08-10 20:14:46 overwrite stylesheets/screen.css 
+2014-08-10 20:15:47 overwrite stylesheets/screen.css 
+2014-08-10 20:16:19 overwrite stylesheets/screen.css 
+2014-08-10 20:18:35 overwrite stylesheets/screen.css 
+2014-08-10 20:21:55     error sass/screen.scss (Line 280: Invalid CSS after "}": expected "}", was "")
+2014-08-10 20:21:55 overwrite stylesheets/screen.css 
+2014-08-10 20:22:04     error sass/screen.scss (Line 280: Invalid CSS after "}": expected "}", was "")
+2014-08-10 20:22:04 overwrite stylesheets/screen.css 
+2014-08-10 20:22:18 overwrite stylesheets/screen.css 
+2014-08-10 20:25:09 overwrite stylesheets/screen.css 
+2014-08-10 20:25:19 overwrite stylesheets/screen.css 
+2014-08-10 20:25:38 overwrite stylesheets/screen.css 
+2014-08-10 20:25:53 overwrite stylesheets/screen.css 
+2014-08-10 20:26:50 overwrite stylesheets/screen.css 
+2014-08-10 20:27:18 overwrite stylesheets/screen.css 
+2014-08-10 20:28:10 overwrite stylesheets/screen.css 
+2014-08-10 20:28:32 overwrite stylesheets/screen.css 
+2014-08-10 20:29:33     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:29:33 overwrite stylesheets/screen.css 
+2014-08-10 20:29:49     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:29:49 identical stylesheets/screen.css 
+2014-08-10 20:29:56     error sass/screen.scss (Line 280: Undefined variable: "$tabs-base-color".)
+2014-08-10 20:29:56 overwrite stylesheets/screen.css 
+2014-08-10 20:30:02     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:30:02 overwrite stylesheets/screen.css 
+2014-08-10 20:30:08     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:30:08 identical stylesheets/screen.css 
+2014-08-10 20:30:15     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:30:15 identical stylesheets/screen.css 
+2014-08-10 20:30:26     error sass/screen.scss (Line 288: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 20:30:26 identical stylesheets/screen.css 
+2014-08-10 20:30:32     error sass/screen.scss (Line 280: Undefined variable: "$tabs-base-color".)
+2014-08-10 20:30:32 overwrite stylesheets/screen.css 
+2014-08-10 20:30:49 overwrite stylesheets/screen.css 
+2014-08-10 20:32:47 overwrite stylesheets/screen.css 
+2014-08-10 20:32:59 overwrite stylesheets/screen.css 
+2014-08-10 20:33:16 overwrite stylesheets/screen.css 
+2014-08-10 20:33:39 overwrite stylesheets/screen.css 
+2014-08-10 20:35:03 overwrite stylesheets/screen.css 
+2014-08-10 20:35:29 overwrite stylesheets/screen.css 
+2014-08-10 20:36:00 overwrite stylesheets/screen.css 
+2014-08-10 20:37:18 overwrite stylesheets/screen.css 
+2014-08-10 20:39:17 overwrite stylesheets/screen.css 
+2014-08-10 20:39:39 overwrite stylesheets/screen.css 
+2014-08-10 20:41:58 overwrite stylesheets/screen.css 
+2014-08-10 20:43:05 overwrite stylesheets/screen.css 
+2014-08-10 20:44:09 overwrite stylesheets/screen.css 
+2014-08-10 20:45:24 overwrite stylesheets/screen.css 
+2014-08-10 20:45:49 overwrite stylesheets/screen.css 
+2014-08-10 20:46:40 overwrite stylesheets/screen.css 
+2014-08-10 20:46:50 overwrite stylesheets/screen.css 
+2014-08-10 20:47:06 overwrite stylesheets/screen.css 
+2014-08-10 20:47:09 overwrite stylesheets/screen.css 
+2014-08-10 20:48:25 overwrite stylesheets/screen.css 
+2014-08-10 20:49:57 overwrite stylesheets/screen.css 
+2014-08-10 20:50:20 overwrite stylesheets/screen.css 
+2014-08-10 20:50:35 overwrite stylesheets/screen.css 
+2014-08-10 20:50:42 overwrite stylesheets/screen.css 
+2014-08-10 20:51:00 overwrite stylesheets/screen.css 
+2014-08-10 20:52:01 overwrite stylesheets/screen.css 
+2014-08-10 20:52:56 overwrite stylesheets/screen.css 
+2014-08-10 20:53:37 overwrite stylesheets/screen.css 
+2014-08-10 20:54:00 overwrite stylesheets/screen.css 
+2014-08-10 20:54:31 overwrite stylesheets/screen.css 
+2014-08-10 20:54:46 overwrite stylesheets/screen.css 
+2014-08-10 20:56:25 overwrite stylesheets/screen.css 
+2014-08-10 20:57:21 overwrite stylesheets/screen.css 
+2014-08-10 20:57:45 overwrite stylesheets/screen.css 
+2014-08-10 20:58:06 overwrite stylesheets/screen.css 
+2014-08-10 20:58:34 overwrite stylesheets/screen.css 
+2014-08-10 20:59:12 overwrite stylesheets/screen.css 
+2014-08-10 20:59:18 overwrite stylesheets/screen.css 
+2014-08-10 20:59:35 overwrite stylesheets/screen.css 
+2014-08-10 21:00:36 overwrite stylesheets/screen.css 
+2014-08-10 21:00:51 overwrite stylesheets/screen.css 
+2014-08-10 21:01:19 overwrite stylesheets/screen.css 
+2014-08-10 21:01:40 overwrite stylesheets/screen.css 
+2014-08-10 21:02:22 overwrite stylesheets/screen.css 
+2014-08-10 21:02:43 overwrite stylesheets/screen.css 
+2014-08-10 21:03:06 overwrite stylesheets/screen.css 
+2014-08-10 21:03:19 overwrite stylesheets/screen.css 
+2014-08-10 21:03:34 overwrite stylesheets/screen.css 
+2014-08-10 21:04:02 overwrite stylesheets/screen.css 
+2014-08-10 21:05:06 overwrite stylesheets/screen.css 
+2014-08-10 21:05:29 overwrite stylesheets/screen.css 
+2014-08-10 21:05:52 overwrite stylesheets/screen.css 
+2014-08-10 21:06:06 overwrite stylesheets/screen.css 
+2014-08-10 21:06:36 overwrite stylesheets/screen.css 
+2014-08-10 21:07:34 overwrite stylesheets/screen.css 
+2014-08-10 21:08:07 overwrite stylesheets/screen.css 
+2014-08-10 21:08:22 overwrite stylesheets/screen.css 
+2014-08-10 21:08:38 overwrite stylesheets/screen.css 
+2014-08-10 21:09:00 overwrite stylesheets/screen.css 
+2014-08-10 21:09:16 overwrite stylesheets/screen.css 
+2014-08-10 21:09:19     error sass/screen.scss (Line 255: Invalid CSS after "    text-transform": expected ";", was ": uppercase;")
+2014-08-10 21:09:19 overwrite stylesheets/screen.css 
+2014-08-10 21:09:30 overwrite stylesheets/screen.css 
+2014-08-10 21:10:04 overwrite stylesheets/screen.css 
+2014-08-10 21:10:46     error sass/screen.scss (Line 277: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-10 21:10:46 overwrite stylesheets/screen.css 
+2014-08-10 21:11:01 overwrite stylesheets/screen.css 
+2014-08-10 21:12:29 overwrite stylesheets/screen.css 
+2014-08-10 21:12:47 overwrite stylesheets/screen.css 
+2014-08-10 21:13:08 overwrite stylesheets/screen.css 
+2014-08-10 21:13:37 overwrite stylesheets/screen.css 
+2014-08-10 21:13:59 overwrite stylesheets/screen.css 
+2014-08-10 21:16:14     error sass/screen.scss (Line 225: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-10 21:16:14 overwrite stylesheets/screen.css 
+2014-08-10 21:16:59 overwrite stylesheets/screen.css 
+2014-08-10 21:18:15 overwrite stylesheets/screen.css 
+2014-08-10 21:18:30 overwrite stylesheets/screen.css 
+2014-08-10 21:18:41 overwrite stylesheets/screen.css 
+2014-08-10 21:19:01 overwrite stylesheets/screen.css 
+2014-08-10 21:19:11 overwrite stylesheets/screen.css 
+2014-08-10 21:19:18 overwrite stylesheets/screen.css 
+2014-08-10 21:19:35 overwrite stylesheets/screen.css 
+2014-08-10 21:19:47 overwrite stylesheets/screen.css 
+2014-08-10 21:19:52 overwrite stylesheets/screen.css 
+2014-08-10 21:20:00 overwrite stylesheets/screen.css 
+2014-08-10 21:20:08 overwrite stylesheets/screen.css 
+2014-08-10 21:20:15 overwrite stylesheets/screen.css 
+2014-08-10 21:20:18 overwrite stylesheets/screen.css 
+2014-08-10 21:20:27 overwrite stylesheets/screen.css 
+2014-08-10 21:20:50 overwrite stylesheets/screen.css 
+2014-08-10 21:20:54 overwrite stylesheets/screen.css 
+2014-08-10 21:21:31 overwrite stylesheets/screen.css 
+2014-08-10 21:22:48 overwrite stylesheets/screen.css 
+2014-08-10 21:23:59 overwrite stylesheets/screen.css 
+2014-08-10 21:24:46 overwrite stylesheets/screen.css 
+2014-08-10 21:24:58 overwrite stylesheets/screen.css 
+2014-08-10 21:25:16 overwrite stylesheets/screen.css 
+2014-08-10 21:25:54 overwrite stylesheets/screen.css 
+2014-08-10 21:26:30 overwrite stylesheets/screen.css 
+2014-08-10 21:27:02 overwrite stylesheets/screen.css 
+2014-08-10 21:27:15 overwrite stylesheets/screen.css 
+2014-08-10 21:27:24 overwrite stylesheets/screen.css 
+2014-08-10 21:28:33 overwrite stylesheets/screen.css 
+2014-08-10 21:28:45 overwrite stylesheets/screen.css 
+2014-08-10 21:29:11 overwrite stylesheets/screen.css 
+2014-08-10 21:29:51 overwrite stylesheets/screen.css 
+2014-08-10 21:30:14 overwrite stylesheets/screen.css 
+2014-08-10 21:31:07 overwrite stylesheets/screen.css 
+2014-08-10 21:31:39 overwrite stylesheets/screen.css 
+2014-08-10 21:32:08 overwrite stylesheets/screen.css 
+2014-08-10 21:33:11 overwrite stylesheets/screen.css 
+2014-08-10 21:33:56 overwrite stylesheets/screen.css 
+2014-08-10 21:35:29 overwrite stylesheets/screen.css 
+2014-08-10 21:35:40 overwrite stylesheets/screen.css 
+2014-08-10 21:37:10 overwrite stylesheets/screen.css 
+2014-08-10 21:37:43 overwrite stylesheets/screen.css 
+2014-08-10 21:37:52 overwrite stylesheets/screen.css 
+2014-08-10 21:38:24 overwrite stylesheets/screen.css 
+2014-08-10 21:40:44 overwrite stylesheets/screen.css 
+2014-08-10 21:43:07 overwrite stylesheets/screen.css 
+2014-08-10 21:43:48 overwrite stylesheets/screen.css 
+2014-08-10 21:44:28 overwrite stylesheets/screen.css 
+2014-08-10 21:44:37 overwrite stylesheets/screen.css 
+2014-08-10 21:44:41 overwrite stylesheets/screen.css 
+2014-08-10 21:44:55 overwrite stylesheets/screen.css 
+2014-08-10 21:45:04 overwrite stylesheets/screen.css 
+2014-08-10 21:45:17 overwrite stylesheets/screen.css 
+2014-08-10 21:45:31 overwrite stylesheets/screen.css 
+2014-08-10 21:45:52 overwrite stylesheets/screen.css 
+2014-08-10 21:46:28 overwrite stylesheets/screen.css 
+2014-08-10 21:47:04 overwrite stylesheets/screen.css 
+2014-08-10 21:47:25 overwrite stylesheets/screen.css 
+2014-08-10 21:47:32 overwrite stylesheets/screen.css 
+2014-08-10 21:47:46 overwrite stylesheets/screen.css 
+2014-08-10 21:48:53 overwrite stylesheets/screen.css 
+2014-08-10 21:49:13 overwrite stylesheets/screen.css 
+2014-08-10 21:49:22 overwrite stylesheets/screen.css 
+2014-08-10 21:50:26 overwrite stylesheets/screen.css 
+2014-08-10 21:50:35 overwrite stylesheets/screen.css 
+2014-08-10 21:50:45 overwrite stylesheets/screen.css 
+2014-08-10 21:50:52 overwrite stylesheets/screen.css 
+2014-08-10 21:51:00 overwrite stylesheets/screen.css 
+2014-08-10 21:51:25 overwrite stylesheets/screen.css 
+2014-08-10 21:51:33 overwrite stylesheets/screen.css 
+2014-08-10 21:51:54 overwrite stylesheets/screen.css 
+2014-08-10 21:52:05 overwrite stylesheets/screen.css 
+2014-08-10 21:52:15 overwrite stylesheets/screen.css 
+2014-08-10 21:52:57 overwrite stylesheets/screen.css 
+2014-08-10 21:53:41 overwrite stylesheets/screen.css 
+2014-08-10 21:54:01 overwrite stylesheets/screen.css 
+2014-08-10 21:54:19 overwrite stylesheets/screen.css 
+2014-08-10 21:54:37 overwrite stylesheets/screen.css 
+2014-08-10 21:54:55 overwrite stylesheets/screen.css 
+2014-08-10 21:55:07 overwrite stylesheets/screen.css 
+2014-08-10 21:55:18 overwrite stylesheets/screen.css 
+2014-08-10 21:55:29 overwrite stylesheets/screen.css 
+2014-08-10 21:55:49 overwrite stylesheets/screen.css 
+2014-08-10 21:56:09 overwrite stylesheets/screen.css 
+2014-08-10 21:56:16 overwrite stylesheets/screen.css 
+2014-08-10 21:56:26 overwrite stylesheets/screen.css 
+2014-08-10 21:56:33 overwrite stylesheets/screen.css 
+2014-08-10 21:56:45 overwrite stylesheets/screen.css 
+2014-08-10 21:56:54 overwrite stylesheets/screen.css 
+2014-08-10 21:57:09 overwrite stylesheets/screen.css 
+2014-08-10 21:57:29 overwrite stylesheets/screen.css 
+2014-08-10 21:57:44 overwrite stylesheets/screen.css 
+2014-08-10 22:00:51 overwrite stylesheets/screen.css 
+2014-08-10 22:01:18 overwrite stylesheets/screen.css 
+2014-08-10 22:01:38 overwrite stylesheets/screen.css 
+2014-08-10 22:01:41 overwrite stylesheets/screen.css 
+2014-08-10 22:01:58 overwrite stylesheets/screen.css 
+2014-08-10 22:02:09 overwrite stylesheets/screen.css 
+2014-08-10 22:02:18 overwrite stylesheets/screen.css 
+2014-08-10 22:02:35 overwrite stylesheets/screen.css 
+2014-08-10 22:03:18 overwrite stylesheets/screen.css 
+2014-08-10 22:04:26 overwrite stylesheets/screen.css 
+2014-08-10 22:05:08 overwrite stylesheets/screen.css 
+2014-08-10 22:05:26 overwrite stylesheets/screen.css 
+2014-08-10 22:05:53 overwrite stylesheets/screen.css 
+2014-08-10 22:06:07 overwrite stylesheets/screen.css 
+2014-08-10 22:06:47 overwrite stylesheets/screen.css 
+2014-08-10 22:07:22 overwrite stylesheets/screen.css 
+2014-08-10 22:09:20     error sass/screen.scss (Line 268: Invalid CSS after "    	display": expected ";", was ": none; ")
+2014-08-10 22:09:20 overwrite stylesheets/screen.css 
+2014-08-10 22:09:42 overwrite stylesheets/screen.css 
+2014-08-10 22:10:15 overwrite stylesheets/screen.css 
+2014-08-10 22:10:54 overwrite stylesheets/screen.css 
+2014-08-10 22:11:46 overwrite stylesheets/screen.css 
+2014-08-10 22:12:42 overwrite stylesheets/screen.css 
+2014-08-10 22:13:07 overwrite stylesheets/screen.css 
+2014-08-10 22:13:23 overwrite stylesheets/screen.css 
+2014-08-10 22:13:34 overwrite stylesheets/screen.css 
+2014-08-10 22:14:22 overwrite stylesheets/screen.css 
+2014-08-10 22:14:40 overwrite stylesheets/screen.css 
+2014-08-10 22:19:55 overwrite stylesheets/screen.css 
+2014-08-10 22:20:04 overwrite stylesheets/screen.css 
+2014-08-10 22:21:13 overwrite stylesheets/screen.css 
+2014-08-10 22:23:16 overwrite stylesheets/screen.css 
+2014-08-10 22:25:45 overwrite stylesheets/screen.css 
+2014-08-10 22:26:02 overwrite stylesheets/screen.css 
+2014-08-10 22:26:35 overwrite stylesheets/screen.css 
+2014-08-10 22:30:34 overwrite stylesheets/screen.css 
+2014-08-10 22:37:14 overwrite stylesheets/screen.css 
+2014-08-10 22:39:48 overwrite stylesheets/screen.css 
+2014-08-10 22:40:29 overwrite stylesheets/screen.css 
+2014-08-10 22:41:04 overwrite stylesheets/screen.css 
+2014-08-10 22:42:44 overwrite stylesheets/screen.css 
+2014-08-10 22:43:13 overwrite stylesheets/screen.css 
+2014-08-10 22:43:32 overwrite stylesheets/screen.css 
+2014-08-10 22:44:57 overwrite stylesheets/screen.css 
+2014-08-10 22:45:45 overwrite stylesheets/screen.css 
+2014-08-10 22:46:59 overwrite stylesheets/screen.css 
+2014-08-10 22:47:19 overwrite stylesheets/screen.css 
+2014-08-10 22:48:26 overwrite stylesheets/screen.css 
+2014-08-10 22:50:19 overwrite stylesheets/screen.css 
+2014-08-10 22:51:50 overwrite stylesheets/screen.css 
+2014-08-10 22:52:19 overwrite stylesheets/screen.css 
+2014-08-10 22:54:03 overwrite stylesheets/screen.css 
+2014-08-10 22:54:44 overwrite stylesheets/screen.css 
+2014-08-10 22:56:46 overwrite stylesheets/screen.css 
+2014-08-10 22:58:32 identical stylesheets/screen.css 
+2014-08-10 22:58:50 identical stylesheets/screen.css 
+2014-08-10 22:59:22 identical stylesheets/screen.css 
+2014-08-10 22:59:39 identical stylesheets/screen.css 
+2014-08-10 23:00:26 overwrite stylesheets/screen.css 
+2014-08-10 23:12:42 overwrite stylesheets/screen.css 
+2014-08-10 23:13:24 overwrite stylesheets/screen.css 
+2014-08-11 09:07:19 overwrite stylesheets/screen.css 
+2014-08-11 09:07:39 overwrite stylesheets/screen.css 
+2014-08-11 09:08:34 overwrite stylesheets/screen.css 
+2014-08-11 09:08:45     error sass/screen.scss (Line 238: Invalid CSS after "	  	width": expected ";", was ": auto;")
+2014-08-11 09:08:45 overwrite stylesheets/screen.css 
+2014-08-11 09:08:53 overwrite stylesheets/screen.css 
+2014-08-11 09:09:34 overwrite stylesheets/screen.css 
+2014-08-11 09:12:03 overwrite stylesheets/screen.css 
+2014-08-11 09:12:13 overwrite stylesheets/screen.css 
+2014-08-11 09:13:18 overwrite stylesheets/screen.css 
+2014-08-11 09:13:44 overwrite stylesheets/screen.css 
+2014-08-11 09:14:07 overwrite stylesheets/screen.css 
+2014-08-11 09:14:33 overwrite stylesheets/screen.css 
+2014-08-11 09:15:09 overwrite stylesheets/screen.css 
+2014-08-11 09:15:47 overwrite stylesheets/screen.css 
+2014-08-11 09:15:55 overwrite stylesheets/screen.css 
+2014-08-11 09:16:17 overwrite stylesheets/screen.css 
+2014-08-11 09:16:31 overwrite stylesheets/screen.css 
+2014-08-11 09:17:03 overwrite stylesheets/screen.css 
+2014-08-11 09:17:24 overwrite stylesheets/screen.css 
+2014-08-11 09:18:39 overwrite stylesheets/screen.css 
+2014-08-11 09:18:43 overwrite stylesheets/screen.css 
+2014-08-11 09:18:54 overwrite stylesheets/screen.css 
+2014-08-11 09:19:35 overwrite stylesheets/screen.css 
+2014-08-11 09:19:57 overwrite stylesheets/screen.css 
+2014-08-11 09:20:21 overwrite stylesheets/screen.css 
+2014-08-11 09:20:51 overwrite stylesheets/screen.css 
+2014-08-11 09:21:23 overwrite stylesheets/screen.css 
+2014-08-11 09:21:49 overwrite stylesheets/screen.css 
+2014-08-11 09:22:06 overwrite stylesheets/screen.css 
+2014-08-11 09:23:11 overwrite stylesheets/screen.css 
+2014-08-11 09:23:46 overwrite stylesheets/screen.css 
+2014-08-11 09:24:02 overwrite stylesheets/screen.css 
+2014-08-11 09:24:22 overwrite stylesheets/screen.css 
+2014-08-11 09:24:54 overwrite stylesheets/screen.css 
+2014-08-11 09:25:21 overwrite stylesheets/screen.css 
+2014-08-11 09:26:35 overwrite stylesheets/screen.css 
+2014-08-11 09:26:56 overwrite stylesheets/screen.css 
+2014-08-11 09:27:26 overwrite stylesheets/screen.css 
+2014-08-11 09:27:39 overwrite stylesheets/screen.css 
+2014-08-11 09:27:54 overwrite stylesheets/screen.css 
+2014-08-11 09:28:16 overwrite stylesheets/screen.css 
+2014-08-11 09:28:44 overwrite stylesheets/screen.css 
+2014-08-11 09:28:57 overwrite stylesheets/screen.css 
+2014-08-11 09:29:30 overwrite stylesheets/screen.css 
+2014-08-11 09:29:44 overwrite stylesheets/screen.css 
+2014-08-11 09:30:10 overwrite stylesheets/screen.css 
+2014-08-11 09:30:30 overwrite stylesheets/screen.css 
+2014-08-11 09:31:16 overwrite stylesheets/screen.css 
+2014-08-11 09:31:50 overwrite stylesheets/screen.css 
+2014-08-11 09:32:02 overwrite stylesheets/screen.css 
+2014-08-11 09:32:27 overwrite stylesheets/screen.css 
+2014-08-11 09:32:56 overwrite stylesheets/screen.css 
+2014-08-11 09:34:05 overwrite stylesheets/screen.css 
+2014-08-11 09:36:29 overwrite stylesheets/screen.css 
+2014-08-11 09:36:47 overwrite stylesheets/screen.css 
+2014-08-11 09:37:04 overwrite stylesheets/screen.css 
+2014-08-11 09:37:15 overwrite stylesheets/screen.css 
+2014-08-11 09:37:54 overwrite stylesheets/screen.css 
+2014-08-11 09:38:15 overwrite stylesheets/screen.css 
+2014-08-11 09:41:16 overwrite stylesheets/screen.css 
+2014-08-11 09:42:00 overwrite stylesheets/screen.css 
+2014-08-11 09:42:14 overwrite stylesheets/screen.css 
+2014-08-11 09:42:41 overwrite stylesheets/screen.css 
+2014-08-11 09:43:27 overwrite stylesheets/screen.css 
+2014-08-11 09:45:15 overwrite stylesheets/screen.css 
+2014-08-11 09:45:40 overwrite stylesheets/screen.css 
+2014-08-11 09:46:05 overwrite stylesheets/screen.css 
+2014-08-11 09:46:09 identical stylesheets/screen.css 
+2014-08-11 09:46:32 overwrite stylesheets/screen.css 
+2014-08-11 10:58:00 overwrite stylesheets/screen.css 
+2014-08-11 10:58:37 overwrite stylesheets/screen.css 
+2014-08-11 10:59:10 overwrite stylesheets/screen.css 
+2014-08-11 11:07:37 overwrite stylesheets/screen.css 
+2014-08-11 11:09:00 overwrite stylesheets/screen.css 
+2014-08-11 11:10:15 overwrite stylesheets/screen.css 
+2014-08-11 11:10:54 overwrite stylesheets/screen.css 
+2014-08-11 11:12:16 overwrite stylesheets/screen.css 
+2014-08-11 11:12:31 overwrite stylesheets/screen.css 
+2014-08-11 11:12:46 overwrite stylesheets/screen.css 
+2014-08-11 11:13:03 overwrite stylesheets/screen.css 
+2014-08-11 11:14:02 overwrite stylesheets/screen.css 
+2014-08-11 11:14:58 overwrite stylesheets/screen.css 
+2014-08-11 11:19:46 overwrite stylesheets/screen.css 
+2014-08-11 11:22:42 overwrite stylesheets/screen.css 
+2014-08-11 11:24:41 overwrite stylesheets/screen.css 
+2014-08-11 11:25:00 overwrite stylesheets/screen.css 
+2014-08-11 11:26:19 overwrite stylesheets/screen.css 
+2014-08-11 11:26:42 overwrite stylesheets/screen.css 
+2014-08-11 11:27:06 overwrite stylesheets/screen.css 
+2014-08-11 11:27:36 overwrite stylesheets/screen.css 
+2014-08-11 11:28:00 overwrite stylesheets/screen.css 
+2014-08-11 11:28:16 overwrite stylesheets/screen.css 
+2014-08-11 11:28:23 overwrite stylesheets/screen.css 
+2014-08-11 11:28:45 overwrite stylesheets/screen.css 
+2014-08-11 11:29:09 overwrite stylesheets/screen.css 
+2014-08-11 11:29:21 overwrite stylesheets/screen.css 
+2014-08-11 11:29:31 overwrite stylesheets/screen.css 
+2014-08-11 11:29:49 overwrite stylesheets/screen.css 
+2014-08-11 11:30:18 overwrite stylesheets/screen.css 
+2014-08-11 11:30:42 overwrite stylesheets/screen.css 
+2014-08-11 11:30:54 overwrite stylesheets/screen.css 
+2014-08-11 11:31:26 overwrite stylesheets/screen.css 
+2014-08-11 11:31:39 overwrite stylesheets/screen.css 
+2014-08-11 11:32:48 overwrite stylesheets/screen.css 
+2014-08-11 11:33:00 overwrite stylesheets/screen.css 
+2014-08-11 11:33:25 overwrite stylesheets/screen.css 
+2014-08-11 11:34:42 overwrite stylesheets/screen.css 
+2014-08-11 11:36:50 overwrite stylesheets/screen.css 
+2014-08-11 11:37:18 overwrite stylesheets/screen.css 
+2014-08-11 11:37:30 overwrite stylesheets/screen.css 
+2014-08-11 11:37:51 overwrite stylesheets/screen.css 
+2014-08-11 11:38:32 overwrite stylesheets/screen.css 
+2014-08-11 11:40:03 overwrite stylesheets/screen.css 
+2014-08-11 11:40:52 overwrite stylesheets/screen.css 
+2014-08-11 11:42:10 overwrite stylesheets/screen.css 
+2014-08-11 11:43:16 overwrite stylesheets/screen.css 
+2014-08-11 11:43:41 overwrite stylesheets/screen.css 
+2014-08-11 11:44:02 overwrite stylesheets/screen.css 
+2014-08-11 11:44:28 overwrite stylesheets/screen.css 
+2014-08-11 11:44:40 overwrite stylesheets/screen.css 
+2014-08-11 11:44:53 overwrite stylesheets/screen.css 
+2014-08-11 11:45:18     error sass/screen.scss (Line 297: Invalid CSS after "					ma": expected "{", was "}")
+2014-08-11 11:45:18 overwrite stylesheets/screen.css 
+2014-08-11 11:45:29 overwrite stylesheets/screen.css 
+2014-08-11 11:46:49 overwrite stylesheets/screen.css 
+2014-08-11 11:46:57 overwrite stylesheets/screen.css 
+2014-08-11 11:47:08 overwrite stylesheets/screen.css 
+2014-08-11 11:47:18 overwrite stylesheets/screen.css 
+2014-08-11 11:54:05 overwrite stylesheets/screen.css 
+2014-08-11 11:55:25 identical stylesheets/screen.css 
+2014-08-11 12:02:16 overwrite stylesheets/screen.css 
+2014-08-11 13:43:51 overwrite stylesheets/screen.css 
+2014-08-11 13:49:55 overwrite stylesheets/screen.css 
+2014-08-11 13:50:56 overwrite stylesheets/screen.css 
+2014-08-11 13:52:30 overwrite stylesheets/screen.css 
+2014-08-11 13:56:57 overwrite stylesheets/screen.css 
+2014-08-11 13:57:20 overwrite stylesheets/screen.css 
+2014-08-11 13:58:03 overwrite stylesheets/screen.css 
+2014-08-11 14:10:44     error sass/screen.scss (Line 58 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-11 14:10:44 overwrite stylesheets/screen.css 
+2014-08-11 14:11:31 overwrite stylesheets/screen.css 
+2014-08-11 14:11:56 overwrite stylesheets/screen.css 
+2014-08-11 14:12:50 overwrite stylesheets/screen.css 
+2014-08-11 14:16:06     error sass/screen.scss (Line 38 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 14:16:06 overwrite stylesheets/screen.css 
+2014-08-11 14:17:01     error sass/screen.scss (Line 38 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 14:17:01 overwrite stylesheets/screen.css 
+2014-08-11 14:22:34     error sass/screen.scss (Line 29 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected "}", was "")
+2014-08-11 14:22:35 overwrite stylesheets/screen.css 
+2014-08-11 14:22:44     error sass/screen.scss (Line 29 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 14:22:44 overwrite stylesheets/screen.css 
+2014-08-11 14:23:01 overwrite stylesheets/screen.css 
+2014-08-11 14:23:34 overwrite stylesheets/screen.css 
+2014-08-11 14:27:07 overwrite stylesheets/screen.css 
+2014-08-11 14:28:49 overwrite stylesheets/screen.css 
+2014-08-11 14:29:07 overwrite stylesheets/screen.css 
+2014-08-11 14:29:16 overwrite stylesheets/screen.css 
+2014-08-11 14:29:49 identical stylesheets/screen.css 
+2014-08-11 14:30:19     error sass/screen.scss (Line 16 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-11 14:30:19 overwrite stylesheets/screen.css 
+2014-08-11 14:30:23     error sass/screen.scss (Line 16 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-11 14:30:23 identical stylesheets/screen.css 
+2014-08-11 14:30:28 overwrite stylesheets/screen.css 
+2014-08-11 14:30:49 overwrite stylesheets/screen.css 
+2014-08-11 14:33:38 overwrite stylesheets/screen.css 
+2014-08-11 14:33:52 overwrite stylesheets/screen.css 
+2014-08-11 14:37:18     error sass/screen.scss (Line 44 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 14:37:18 overwrite stylesheets/screen.css 
+2014-08-11 14:37:27 overwrite stylesheets/screen.css 
+2014-08-11 14:37:53 overwrite stylesheets/screen.css 
+2014-08-11 14:39:09     error sass/screen.scss (Line 58 of sass/_aesthetic-contacts.scss: Undefined mixin 'border-radius'.)
+2014-08-11 14:39:09 overwrite stylesheets/screen.css 
+2014-08-11 14:40:01     error sass/screen.scss (Line 33 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-11 14:40:01 overwrite stylesheets/screen.css 
+2014-08-11 14:40:21     error sass/screen.scss (Line 67 of sass/_aesthetic-contacts.scss: Undefined mixin 'inline-block'.)
+2014-08-11 14:40:21 overwrite stylesheets/screen.css 
+2014-08-11 14:40:54     error sass/screen.scss (Line 2 of sass/_aesthetic-contacts.scss: Undefined mixin 'box-sizing'.)
+2014-08-11 14:40:54 overwrite stylesheets/screen.css 
+2014-08-11 14:41:23 overwrite stylesheets/screen.css 
+2014-08-11 14:43:23 overwrite stylesheets/screen.css 
+2014-08-11 14:44:11 overwrite stylesheets/screen.css 
+2014-08-11 14:45:38 overwrite stylesheets/screen.css 
+2014-08-11 14:45:56 overwrite stylesheets/screen.css 
+2014-08-11 14:56:04     error sass/screen.scss (Line 55 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-11 14:56:04 overwrite stylesheets/screen.css 
+2014-08-11 14:56:34 overwrite stylesheets/screen.css 
+2014-08-11 15:06:37 overwrite stylesheets/screen.css 
+2014-08-11 15:06:55 overwrite stylesheets/screen.css 
+2014-08-11 15:07:34 overwrite stylesheets/screen.css 
+2014-08-11 15:08:02 overwrite stylesheets/screen.css 
+2014-08-11 15:09:30 overwrite stylesheets/screen.css 
+2014-08-11 15:10:22 overwrite stylesheets/screen.css 
+2014-08-11 15:11:21 overwrite stylesheets/screen.css 
+2014-08-11 15:13:20 overwrite stylesheets/screen.css 
+2014-08-11 15:15:07 overwrite stylesheets/screen.css 
+2014-08-11 15:15:46 overwrite stylesheets/screen.css 
+2014-08-11 15:16:22 overwrite stylesheets/screen.css 
+2014-08-11 15:16:42 overwrite stylesheets/screen.css 
+2014-08-11 15:17:09 overwrite stylesheets/screen.css 
+2014-08-11 15:19:05 overwrite stylesheets/screen.css 
+2014-08-11 15:19:46 overwrite stylesheets/screen.css 
+2014-08-11 15:20:02 overwrite stylesheets/screen.css 
+2014-08-11 15:20:26 overwrite stylesheets/screen.css 
+2014-08-11 15:21:23 overwrite stylesheets/screen.css 
+2014-08-11 15:21:40 overwrite stylesheets/screen.css 
+2014-08-11 15:22:20 overwrite stylesheets/screen.css 
+2014-08-11 15:23:48 overwrite stylesheets/screen.css 
+2014-08-11 15:24:04 overwrite stylesheets/screen.css 
+2014-08-11 15:24:16 overwrite stylesheets/screen.css 
+2014-08-11 15:24:33 overwrite stylesheets/screen.css 
+2014-08-11 15:25:17 overwrite stylesheets/screen.css 
+2014-08-11 15:25:45 overwrite stylesheets/screen.css 
+2014-08-11 15:25:59 overwrite stylesheets/screen.css 
+2014-08-11 15:26:14 overwrite stylesheets/screen.css 
+2014-08-11 15:29:22 overwrite stylesheets/screen.css 
+2014-08-11 15:30:16 overwrite stylesheets/screen.css 
+2014-08-11 15:31:08 overwrite stylesheets/screen.css 
+2014-08-11 15:31:19 overwrite stylesheets/screen.css 
+2014-08-11 15:32:08 overwrite stylesheets/screen.css 
+2014-08-11 15:33:13 overwrite stylesheets/screen.css 
+2014-08-11 15:35:12 overwrite stylesheets/screen.css 
+2014-08-11 15:37:18 overwrite stylesheets/screen.css 
+2014-08-11 15:38:34     error sass/screen.scss (Line 34 of sass/_aesthetic-contacts.scss: Undefined mixin 'border-radius'.)
+2014-08-11 15:38:34 overwrite stylesheets/screen.css 
+2014-08-11 15:38:42 overwrite stylesheets/screen.css 
+2014-08-11 15:43:04 overwrite stylesheets/screen.css 
+2014-08-11 15:43:34 overwrite stylesheets/screen.css 
+2014-08-11 15:49:05     error sass/screen.scss (Line 48 of sass/_aesthetic-contacts.scss: Undefined mixin 'box-sizing'.)
+2014-08-11 15:49:05 overwrite stylesheets/screen.css 
+2014-08-11 15:49:32     error sass/screen.scss (Line 60 of sass/_aesthetic-contacts.scss: Undefined mixin 'border-radius'.)
+2014-08-11 15:49:32 overwrite stylesheets/screen.css 
+2014-08-11 15:49:43 overwrite stylesheets/screen.css 
+2014-08-11 15:50:09 overwrite stylesheets/screen.css 
+2014-08-11 15:51:00 overwrite stylesheets/screen.css 
+2014-08-11 15:52:36 overwrite stylesheets/screen.css 
+2014-08-11 15:54:39     error sass/screen.scss (Line 37 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-11 15:54:39 overwrite stylesheets/screen.css 
+2014-08-11 15:54:42     error sass/screen.scss (Line 37 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-08-11 15:54:42 identical stylesheets/screen.css 
+2014-08-11 15:54:50     error sass/screen.scss (Line 58 of sass/_aesthetic-contacts.scss: Invalid CSS after "				}": expected "}", was "")
+2014-08-11 15:54:50 overwrite stylesheets/screen.css 
+2014-08-11 15:55:19     error sass/screen.scss (Line 58 of sass/_aesthetic-contacts.scss: Invalid CSS after "				}": expected "}", was "")
+2014-08-11 15:55:19 overwrite stylesheets/screen.css 
+2014-08-11 15:55:31     error sass/screen.scss (Line 58 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 15:55:31 overwrite stylesheets/screen.css 
+2014-08-11 15:55:39 overwrite stylesheets/screen.css 
+2014-08-11 15:56:46 identical stylesheets/screen.css 
+2014-08-11 15:57:46 overwrite stylesheets/screen.css 
+2014-08-11 15:58:11 overwrite stylesheets/screen.css 
+2014-08-11 16:01:44 overwrite stylesheets/screen.css 
+2014-08-11 16:02:27 overwrite stylesheets/screen.css 
+2014-08-11 16:02:39 overwrite stylesheets/screen.css 
+2014-08-11 16:03:12 overwrite stylesheets/screen.css 
+2014-08-11 16:03:57 overwrite stylesheets/screen.css 
+2014-08-11 16:04:37 overwrite stylesheets/screen.css 
+2014-08-11 16:04:50 overwrite stylesheets/screen.css 
+2014-08-11 16:06:10 overwrite stylesheets/screen.css 
+2014-08-11 16:07:10 overwrite stylesheets/screen.css 
+2014-08-11 16:08:51 overwrite stylesheets/screen.css 
+2014-08-11 16:09:45 overwrite stylesheets/screen.css 
+2014-08-11 16:20:03 overwrite stylesheets/screen.css 
+2014-08-11 19:55:17     error sass/screen.scss (Line 69 of sass/_aesthetic-contacts.scss: Invalid CSS after "	.send-form": expected "{", was "}")
+2014-08-11 19:55:17 overwrite stylesheets/screen.css 
+2014-08-11 19:55:27     error sass/screen.scss (Line 69 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-11 19:55:27 overwrite stylesheets/screen.css 
+2014-08-11 19:55:35 overwrite stylesheets/screen.css 
+2014-08-11 19:57:59 overwrite stylesheets/screen.css 
+2014-08-11 19:58:54 overwrite stylesheets/screen.css 
+2014-08-11 20:10:22 overwrite stylesheets/screen.css 
+2014-08-11 20:10:54 overwrite stylesheets/screen.css 
+2014-08-11 20:12:07 overwrite stylesheets/screen.css 
+2014-08-11 20:13:05     error sass/screen.scss (Line 71 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-11 20:13:05 overwrite stylesheets/screen.css 
+2014-08-11 20:13:19 overwrite stylesheets/screen.css 
+2014-08-11 20:14:27 overwrite stylesheets/screen.css 
+2014-08-11 20:31:06 overwrite stylesheets/screen.css 
+2014-08-11 20:31:21 overwrite stylesheets/screen.css 
+2014-08-11 20:31:58 overwrite stylesheets/screen.css 
+2014-08-11 20:33:07 overwrite stylesheets/screen.css 
+2014-08-11 20:34:18 overwrite stylesheets/screen.css 
+2014-08-11 20:37:25 overwrite stylesheets/screen.css 
+2014-08-11 20:41:06 overwrite stylesheets/screen.css 
+2014-08-11 20:41:20 overwrite stylesheets/screen.css 
+2014-08-11 20:41:54 overwrite stylesheets/screen.css 
+2014-08-11 20:42:14 overwrite stylesheets/screen.css 
+2014-08-11 20:42:47 overwrite stylesheets/screen.css 
+2014-08-11 20:43:17 overwrite stylesheets/screen.css 
+2014-08-11 20:43:24 overwrite stylesheets/screen.css 
+2014-08-11 20:43:45 overwrite stylesheets/screen.css 
+2014-08-11 20:46:28 overwrite stylesheets/screen.css 
+2014-08-11 20:47:50 overwrite stylesheets/screen.css 
+2014-08-11 20:48:50 overwrite stylesheets/screen.css 
+2014-08-11 20:49:09 overwrite stylesheets/screen.css 
+2014-08-11 20:50:48 overwrite stylesheets/screen.css 
+2014-08-11 20:51:38 overwrite stylesheets/screen.css 
+2014-08-11 20:51:57 overwrite stylesheets/screen.css 
+2014-08-11 20:52:15 overwrite stylesheets/screen.css 
+2014-08-11 20:53:46 overwrite stylesheets/screen.css 
+2014-08-11 20:54:10 overwrite stylesheets/screen.css 
+2014-08-11 20:54:36 overwrite stylesheets/screen.css 
+2014-08-11 20:54:48 overwrite stylesheets/screen.css 
+2014-08-11 20:55:00 overwrite stylesheets/screen.css 
+2014-08-11 20:55:16 overwrite stylesheets/screen.css 
+2014-08-11 20:55:38 overwrite stylesheets/screen.css 
+2014-08-11 21:03:28 overwrite stylesheets/screen.css 
+2014-08-11 21:06:02 overwrite stylesheets/screen.css 
+2014-08-11 21:06:47 overwrite stylesheets/screen.css 
+2014-08-11 21:07:02 overwrite stylesheets/screen.css 
+2014-08-11 21:07:09 overwrite stylesheets/screen.css 
+2014-08-11 21:09:54 overwrite stylesheets/screen.css 
+2014-08-11 21:10:35 overwrite stylesheets/screen.css 
+2014-08-11 21:10:55 overwrite stylesheets/screen.css 
+2014-08-11 21:12:30 overwrite stylesheets/screen.css 
+2014-08-12 00:47:23 overwrite stylesheets/screen.css 
+2014-08-12 00:47:55 overwrite stylesheets/screen.css 
+2014-08-12 13:41:28 overwrite stylesheets/screen.css 
+2014-08-12 13:42:04 overwrite stylesheets/screen.css 
+2014-08-12 13:42:40 overwrite stylesheets/screen.css 
+2014-08-12 13:44:25 overwrite stylesheets/screen.css 
+2014-08-12 13:45:48 overwrite stylesheets/screen.css 
+2014-08-12 13:49:48 overwrite stylesheets/screen.css 
+2014-08-12 13:50:39 overwrite stylesheets/screen.css 
+2014-08-12 14:08:52 overwrite stylesheets/screen.css 
+2014-08-12 14:13:29 overwrite stylesheets/screen.css 
+2014-08-12 14:14:11 overwrite stylesheets/screen.css 
+2014-08-12 14:16:58 overwrite stylesheets/screen.css 
+2014-08-12 14:20:44 overwrite stylesheets/screen.css 
+2014-08-12 14:22:14 overwrite stylesheets/screen.css 
+2014-08-12 14:22:49 overwrite stylesheets/screen.css 
+2014-08-12 14:26:36 overwrite stylesheets/screen.css 
+2014-08-12 14:36:08 overwrite stylesheets/screen.css 
+2014-08-12 14:36:34 overwrite stylesheets/screen.css 
+2014-08-12 14:37:13 overwrite stylesheets/screen.css 
+2014-08-12 14:37:30 overwrite stylesheets/screen.css 
+2014-08-12 14:39:46 overwrite stylesheets/screen.css 
+2014-08-12 14:41:21 overwrite stylesheets/screen.css 
+2014-08-12 14:41:58 overwrite stylesheets/screen.css 
+2014-08-12 14:42:06 overwrite stylesheets/screen.css 
+2014-08-12 14:42:56 overwrite stylesheets/screen.css 
+2014-08-12 14:43:09 overwrite stylesheets/screen.css 
+2014-08-12 14:45:24 overwrite stylesheets/screen.css 
+2014-08-12 14:47:19 overwrite stylesheets/screen.css 
+2014-08-12 14:47:50 overwrite stylesheets/screen.css 
+2014-08-12 14:48:25 overwrite stylesheets/screen.css 
+2014-08-12 14:49:25 overwrite stylesheets/screen.css 
+2014-08-12 14:49:50 overwrite stylesheets/screen.css 
+2014-08-12 14:50:53 overwrite stylesheets/screen.css 
+2014-08-12 14:51:16 overwrite stylesheets/screen.css 
+2014-08-12 14:51:51 overwrite stylesheets/screen.css 
+2014-08-12 14:53:38 overwrite stylesheets/screen.css 
+2014-08-12 14:53:58 overwrite stylesheets/screen.css 
+2014-08-12 14:56:31 overwrite stylesheets/screen.css 
+2014-08-12 14:56:39 overwrite stylesheets/screen.css 
+2014-08-12 14:56:50 overwrite stylesheets/screen.css 
+2014-08-12 14:57:48 overwrite stylesheets/screen.css 
+2014-08-12 14:57:59 overwrite stylesheets/screen.css 
+2014-08-12 14:58:57 overwrite stylesheets/screen.css 
+2014-08-12 15:02:47 identical stylesheets/screen.css 
+2014-08-12 15:08:36 overwrite stylesheets/screen.css 
+2014-08-12 15:12:12 overwrite stylesheets/screen.css 
+2014-08-12 15:12:35 overwrite stylesheets/screen.css 
+2014-08-12 15:13:04 overwrite stylesheets/screen.css 
+2014-08-12 15:13:11 overwrite stylesheets/screen.css 
+2014-08-12 15:13:23 overwrite stylesheets/screen.css 
+2014-08-12 15:13:58 overwrite stylesheets/screen.css 
+2014-08-12 15:14:14 overwrite stylesheets/screen.css 
+2014-08-12 15:14:36 overwrite stylesheets/screen.css 
+2014-08-12 15:35:25 overwrite stylesheets/screen.css 
+2014-08-12 15:35:41 overwrite stylesheets/screen.css 
+2014-08-12 15:36:18 overwrite stylesheets/screen.css 
+2014-08-12 15:36:47 overwrite stylesheets/screen.css 
+2014-08-12 15:37:19 overwrite stylesheets/screen.css 
+2014-08-12 15:37:29 overwrite stylesheets/screen.css 
+2014-08-12 15:37:50 overwrite stylesheets/screen.css 
+2014-08-12 15:38:14 overwrite stylesheets/screen.css 
+2014-08-12 15:38:28 overwrite stylesheets/screen.css 
+2014-08-12 15:39:26 overwrite stylesheets/screen.css 
+2014-08-12 15:39:52 overwrite stylesheets/screen.css 
+2014-08-12 15:41:24 overwrite stylesheets/screen.css 
+2014-08-12 15:42:10 overwrite stylesheets/screen.css 
+2014-08-12 15:42:33 overwrite stylesheets/screen.css 
+2014-08-12 15:42:48 overwrite stylesheets/screen.css 
+2014-08-12 15:43:10 overwrite stylesheets/screen.css 
+2014-08-12 15:43:24 overwrite stylesheets/screen.css 
+2014-08-12 15:43:43 overwrite stylesheets/screen.css 
+2014-08-12 15:44:43 overwrite stylesheets/screen.css 
+2014-08-12 15:45:07 overwrite stylesheets/screen.css 
+2014-08-12 15:46:35 overwrite stylesheets/screen.css 
+2014-08-12 15:46:59 overwrite stylesheets/screen.css 
+2014-08-12 15:48:01 overwrite stylesheets/screen.css 
+2014-08-12 15:49:02 overwrite stylesheets/screen.css 
+2014-08-12 15:49:19 overwrite stylesheets/screen.css 
+2014-08-12 15:49:44 overwrite stylesheets/screen.css 
+2014-08-12 15:50:39 overwrite stylesheets/screen.css 
+2014-08-12 15:50:48 overwrite stylesheets/screen.css 
+2014-08-12 15:51:29 overwrite stylesheets/screen.css 
+2014-08-12 15:51:53 overwrite stylesheets/screen.css 
+2014-08-12 15:52:19 overwrite stylesheets/screen.css 
+2014-08-12 15:53:43 overwrite stylesheets/screen.css 
+2014-08-12 15:54:18 overwrite stylesheets/screen.css 
+2014-08-12 15:54:49 overwrite stylesheets/screen.css 
+2014-08-12 15:55:24 overwrite stylesheets/screen.css 
+2014-08-12 15:55:52 overwrite stylesheets/screen.css 
+2014-08-12 15:56:16 overwrite stylesheets/screen.css 
+2014-08-12 15:56:45 overwrite stylesheets/screen.css 
+2014-08-12 15:57:04 overwrite stylesheets/screen.css 
+2014-08-12 15:57:52 overwrite stylesheets/screen.css 
+2014-08-12 15:58:03 overwrite stylesheets/screen.css 
+2014-08-12 15:58:53 overwrite stylesheets/screen.css 
+2014-08-12 15:59:16 overwrite stylesheets/screen.css 
+2014-08-12 16:02:12 overwrite stylesheets/screen.css 
+2014-08-12 16:02:52 overwrite stylesheets/screen.css 
+2014-08-12 16:03:07 overwrite stylesheets/screen.css 
+2014-08-12 16:03:50 overwrite stylesheets/screen.css 
+2014-08-12 16:04:01 overwrite stylesheets/screen.css 
+2014-08-12 16:04:35 overwrite stylesheets/screen.css 
+2014-08-12 16:05:24 overwrite stylesheets/screen.css 
+2014-08-12 16:05:45 overwrite stylesheets/screen.css 
+2014-08-12 16:06:15 overwrite stylesheets/screen.css 
+2014-08-12 16:06:23 overwrite stylesheets/screen.css 
+2014-08-12 16:06:44 overwrite stylesheets/screen.css 
+2014-08-12 16:07:12 overwrite stylesheets/screen.css 
+2014-08-12 16:07:55 overwrite stylesheets/screen.css 
+2014-08-12 16:08:21 overwrite stylesheets/screen.css 
+2014-08-12 16:08:37 overwrite stylesheets/screen.css 
+2014-08-12 16:08:49 overwrite stylesheets/screen.css 
+2014-08-12 16:09:09 overwrite stylesheets/screen.css 
+2014-08-12 16:09:28 overwrite stylesheets/screen.css 
+2014-08-12 16:09:57 overwrite stylesheets/screen.css 
+2014-08-12 16:10:19 overwrite stylesheets/screen.css 
+2014-08-12 18:18:15 overwrite stylesheets/screen.css 
+2014-08-12 18:20:01 overwrite stylesheets/screen.css 
+2014-08-12 18:20:31 overwrite stylesheets/screen.css 
+2014-08-12 18:20:57 overwrite stylesheets/screen.css 
+2014-08-12 18:21:54 overwrite stylesheets/screen.css 
+2014-08-12 18:23:48 overwrite stylesheets/screen.css 
+2014-08-12 18:24:53 overwrite stylesheets/screen.css 
+2014-08-12 18:25:10 overwrite stylesheets/screen.css 
+2014-08-12 18:25:34 overwrite stylesheets/screen.css 
+2014-08-12 18:27:47 overwrite stylesheets/screen.css 
+2014-08-12 18:28:30 overwrite stylesheets/screen.css 
+2014-08-12 18:28:37 overwrite stylesheets/screen.css 
+2014-08-12 18:29:16 overwrite stylesheets/screen.css 
+2014-08-12 18:29:45 overwrite stylesheets/screen.css 
+2014-08-12 18:30:07 overwrite stylesheets/screen.css 
+2014-08-12 18:31:04 overwrite stylesheets/screen.css 
+2014-08-12 18:31:33 overwrite stylesheets/screen.css 
+2014-08-12 18:36:33 overwrite stylesheets/screen.css 
+2014-08-12 18:37:28 overwrite stylesheets/screen.css 
+2014-08-12 18:38:02 overwrite stylesheets/screen.css 
+2014-08-12 18:39:33 overwrite stylesheets/screen.css 
+2014-08-12 18:39:59 overwrite stylesheets/screen.css 
+2014-08-12 18:40:31 overwrite stylesheets/screen.css 
+2014-08-12 18:40:47 overwrite stylesheets/screen.css 
+2014-08-12 18:43:46 overwrite stylesheets/screen.css 
+2014-08-12 18:44:31 overwrite stylesheets/screen.css 
+2014-08-12 18:44:49 overwrite stylesheets/screen.css 
+2014-08-12 18:45:39 overwrite stylesheets/screen.css 
+2014-08-12 18:45:51 overwrite stylesheets/screen.css 
+2014-08-12 18:47:37 overwrite stylesheets/screen.css 
+2014-08-12 18:48:17 overwrite stylesheets/screen.css 
+2014-08-12 18:57:35 overwrite stylesheets/screen.css 
+2014-08-12 18:57:52 overwrite stylesheets/screen.css 
+2014-08-12 18:58:17 overwrite stylesheets/screen.css 
+2014-08-12 18:59:00 overwrite stylesheets/screen.css 
+2014-08-12 18:59:19 overwrite stylesheets/screen.css 
+2014-08-12 18:59:23 overwrite stylesheets/screen.css 
+2014-08-12 18:59:43     error sass/screen.scss (Line 113 of sass/_aesthetic-contacts.scss: Invalid CSS after "		top": expected ";", was ": 0;")
+2014-08-12 18:59:43 overwrite stylesheets/screen.css 
+2014-08-12 18:59:57 overwrite stylesheets/screen.css 
+2014-08-12 19:01:10 overwrite stylesheets/screen.css 
+2014-08-12 19:02:22 overwrite stylesheets/screen.css 
+2014-08-12 19:02:45 overwrite stylesheets/screen.css 
+2014-08-12 19:03:15 overwrite stylesheets/screen.css 
+2014-08-12 19:04:11 overwrite stylesheets/screen.css 
+2014-08-12 19:04:35 overwrite stylesheets/screen.css 
+2014-08-12 19:05:01 overwrite stylesheets/screen.css 
+2014-08-12 19:05:22 overwrite stylesheets/screen.css 
+2014-08-12 19:07:19 overwrite stylesheets/screen.css 
+2014-08-12 19:08:02 overwrite stylesheets/screen.css 
+2014-08-12 19:08:40 overwrite stylesheets/screen.css 
+2014-08-12 19:09:00 overwrite stylesheets/screen.css 
+2014-08-12 19:09:26 overwrite stylesheets/screen.css 
+2014-08-12 19:09:52 identical stylesheets/screen.css 
+2014-08-12 19:11:07 overwrite stylesheets/screen.css 
+2014-08-12 19:11:30 overwrite stylesheets/screen.css 
+2014-08-12 19:14:25 overwrite stylesheets/screen.css 
+2014-08-12 19:16:12 overwrite stylesheets/screen.css 
+2014-08-12 19:16:48 overwrite stylesheets/screen.css 
+2014-08-12 19:16:55 overwrite stylesheets/screen.css 
+2014-08-12 19:17:13 overwrite stylesheets/screen.css 
+2014-08-12 19:17:36 overwrite stylesheets/screen.css 
+2014-08-12 19:17:59 overwrite stylesheets/screen.css 
+2014-08-12 19:18:17 overwrite stylesheets/screen.css 
+2014-08-12 19:19:06 overwrite stylesheets/screen.css 
+2014-08-12 19:20:32 overwrite stylesheets/screen.css 
+2014-08-12 19:21:11 overwrite stylesheets/screen.css 
+2014-08-12 19:21:18 overwrite stylesheets/screen.css 
+2014-08-12 19:22:25 overwrite stylesheets/screen.css 
+2014-08-12 19:22:35 overwrite stylesheets/screen.css 
+2014-08-12 19:23:26 overwrite stylesheets/screen.css 
+2014-08-12 19:27:36 overwrite stylesheets/screen.css 
+2014-08-12 19:35:31 overwrite stylesheets/screen.css 
+2014-08-12 19:38:21 overwrite stylesheets/screen.css 
+2014-08-12 19:44:08 overwrite stylesheets/screen.css 
+2014-08-12 19:44:25 overwrite stylesheets/screen.css 
+2014-08-12 19:45:07 overwrite stylesheets/screen.css 
+2014-08-12 19:45:41 overwrite stylesheets/screen.css 
+2014-08-12 19:45:53 overwrite stylesheets/screen.css 
+2014-08-12 19:48:14 overwrite stylesheets/screen.css 
+2014-08-12 20:01:58 overwrite stylesheets/screen.css 
+2014-08-12 20:03:13 overwrite stylesheets/screen.css 
+2014-08-12 20:03:39 overwrite stylesheets/screen.css 
+2014-08-12 20:04:19 overwrite stylesheets/screen.css 
+2014-08-12 20:04:42 overwrite stylesheets/screen.css 
+2014-08-12 20:07:18 overwrite stylesheets/screen.css 
+2014-08-12 20:07:38 overwrite stylesheets/screen.css 
+2014-08-12 20:11:51 overwrite stylesheets/screen.css 
+2014-08-12 20:13:18     error sass/screen.scss (Line 89 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-12 20:13:18 overwrite stylesheets/screen.css 
+2014-08-12 20:13:45 overwrite stylesheets/screen.css 
+2014-08-12 20:15:13 overwrite stylesheets/screen.css 
+2014-08-12 20:15:28 overwrite stylesheets/screen.css 
+2014-08-12 20:16:05 overwrite stylesheets/screen.css 
+2014-08-12 20:16:30 overwrite stylesheets/screen.css 
+2014-08-12 20:18:08 overwrite stylesheets/screen.css 
+2014-08-12 20:18:52 overwrite stylesheets/screen.css 
+2014-08-12 20:19:17 overwrite stylesheets/screen.css 
+2014-08-12 20:19:46 overwrite stylesheets/screen.css 
+2014-08-12 20:19:53 overwrite stylesheets/screen.css 
+2014-08-12 20:24:15 overwrite stylesheets/screen.css 
+2014-08-12 20:25:12 overwrite stylesheets/screen.css 
+2014-08-12 20:28:51 overwrite stylesheets/screen.css 
+2014-08-12 20:33:21 overwrite stylesheets/screen.css 
+2014-08-12 20:34:06 overwrite stylesheets/screen.css 
+2014-08-12 20:34:32 overwrite stylesheets/screen.css 
+2014-08-12 20:34:47 overwrite stylesheets/screen.css 
+2014-08-12 20:35:19 overwrite stylesheets/screen.css 
+2014-08-12 20:35:39 overwrite stylesheets/screen.css 
+2014-08-12 20:35:48 overwrite stylesheets/screen.css 
+2014-08-12 20:36:20 overwrite stylesheets/screen.css 
+2014-08-12 20:37:11 overwrite stylesheets/screen.css 
+2014-08-12 20:37:48 overwrite stylesheets/screen.css 
+2014-08-12 20:38:38 overwrite stylesheets/screen.css 
+2014-08-12 20:39:29 overwrite stylesheets/screen.css 
+2014-08-12 21:24:49 overwrite stylesheets/screen.css 
+2014-08-12 21:25:45 overwrite stylesheets/screen.css 
+2014-08-12 21:26:03 overwrite stylesheets/screen.css 
+2014-08-12 21:27:55 overwrite stylesheets/screen.css 
+2014-08-12 21:28:57 overwrite stylesheets/screen.css 
+2014-08-12 21:29:06 overwrite stylesheets/screen.css 
+2014-08-12 21:31:53 identical stylesheets/screen.css 
+2014-08-12 21:32:00 overwrite stylesheets/screen.css 
+2014-08-12 21:34:50 identical stylesheets/screen.css 
+2014-08-12 21:35:28 overwrite stylesheets/screen.css 
+2014-08-12 21:36:38     error sass/screen.scss (Line 98 of sass/_aesthetic-contacts.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-12 21:36:38 overwrite stylesheets/screen.css 
+2014-08-12 21:36:47 overwrite stylesheets/screen.css 
+2014-08-12 21:37:45 overwrite stylesheets/screen.css 
+2014-08-12 21:38:26 overwrite stylesheets/screen.css 
+2014-08-12 21:40:49 overwrite stylesheets/screen.css 
+2014-08-12 21:41:06 overwrite stylesheets/screen.css 
+2014-08-12 21:41:33 overwrite stylesheets/screen.css 
+2014-08-12 21:42:18 overwrite stylesheets/screen.css 
+2014-08-12 21:43:43 overwrite stylesheets/screen.css 
+2014-08-12 21:44:31 overwrite stylesheets/screen.css 
+2014-08-12 21:44:55 overwrite stylesheets/screen.css 
+2014-08-12 21:45:58 overwrite stylesheets/screen.css 
+2014-08-12 21:53:10 overwrite stylesheets/screen.css 
+2014-08-12 21:57:33 overwrite stylesheets/screen.css 
+2014-08-12 21:57:56 overwrite stylesheets/screen.css 
+2014-08-12 21:58:13 overwrite stylesheets/screen.css 
+2014-08-12 21:59:30 overwrite stylesheets/screen.css 
+2014-08-12 21:59:55 overwrite stylesheets/screen.css 
+2014-08-12 22:00:14 overwrite stylesheets/screen.css 
+2014-08-12 22:01:04 overwrite stylesheets/screen.css 
+2014-08-12 22:01:24 overwrite stylesheets/screen.css 
+2014-08-12 22:02:16 overwrite stylesheets/screen.css 
+2014-08-12 22:02:46 overwrite stylesheets/screen.css 
+2014-08-12 22:02:58 overwrite stylesheets/screen.css 
+2014-08-12 22:03:39 overwrite stylesheets/screen.css 
+2014-08-12 22:04:07 overwrite stylesheets/screen.css 
+2014-08-12 22:04:30 overwrite stylesheets/screen.css 
+2014-08-12 22:05:37 overwrite stylesheets/screen.css 
+2014-08-12 22:06:04 overwrite stylesheets/screen.css 
+2014-08-12 22:06:24 overwrite stylesheets/screen.css 
+2014-08-12 22:06:39 identical stylesheets/screen.css 
+2014-08-12 22:07:04 overwrite stylesheets/screen.css 
+2014-08-12 22:07:37 overwrite stylesheets/screen.css 
+2014-08-12 22:08:57 overwrite stylesheets/screen.css 
+2014-08-12 22:09:20 overwrite stylesheets/screen.css 
+2014-08-12 22:09:44 overwrite stylesheets/screen.css 
+2014-08-12 22:11:32 overwrite stylesheets/screen.css 
+2014-08-12 22:12:27 overwrite stylesheets/screen.css 
+2014-08-12 22:12:47 overwrite stylesheets/screen.css 
+2014-08-12 22:13:06 overwrite stylesheets/screen.css 
+2014-08-12 22:15:42 overwrite stylesheets/screen.css 
+2014-08-12 22:16:30 overwrite stylesheets/screen.css 
+2014-08-12 22:17:15 overwrite stylesheets/screen.css 
+2014-08-12 22:17:42 overwrite stylesheets/screen.css 
+2014-08-12 22:18:10 overwrite stylesheets/screen.css 
+2014-08-12 22:19:41 overwrite stylesheets/screen.css 
+2014-08-12 22:20:14 overwrite stylesheets/screen.css 
+2014-08-12 22:21:00     error sass/screen.scss (Line 152 of sass/_aesthetic-contacts.scss: Invalid CSS after "}": expected "}", was "")
+2014-08-12 22:21:00 overwrite stylesheets/screen.css 
+2014-08-12 22:21:10 overwrite stylesheets/screen.css 
+2014-08-12 22:21:40 overwrite stylesheets/screen.css 
+2014-08-12 22:22:26 overwrite stylesheets/screen.css 
+2014-08-12 22:22:51 overwrite stylesheets/screen.css 
+2014-08-12 22:23:04 overwrite stylesheets/screen.css 
+2014-08-12 22:23:34 overwrite stylesheets/screen.css 
+2014-08-12 22:23:55 overwrite stylesheets/screen.css 
+2014-08-12 22:25:47 overwrite stylesheets/screen.css 
+2014-08-12 22:27:51 overwrite stylesheets/screen.css 
+2014-08-12 22:28:01 overwrite stylesheets/screen.css 
+2014-08-12 22:28:35 overwrite stylesheets/screen.css 
+2014-08-12 22:28:52 overwrite stylesheets/screen.css 
+2014-08-12 22:29:35 overwrite stylesheets/screen.css 
+2014-08-12 22:30:14 overwrite stylesheets/screen.css 
+2014-08-12 22:33:11 overwrite stylesheets/screen.css 
+2014-08-12 22:34:09 overwrite stylesheets/screen.css 
+2014-08-12 22:34:37 overwrite stylesheets/screen.css 
+2014-08-12 22:34:52 overwrite stylesheets/screen.css 
+2014-08-12 22:35:07 overwrite stylesheets/screen.css 
+2014-08-12 22:35:53 overwrite stylesheets/screen.css 
+2014-08-12 22:37:14 overwrite stylesheets/screen.css 
+2014-08-12 22:37:38 overwrite stylesheets/screen.css 
+2014-08-12 22:37:51 overwrite stylesheets/screen.css 
+2014-08-12 22:38:18 overwrite stylesheets/screen.css 
+2014-08-12 22:38:27 overwrite stylesheets/screen.css 
+2014-08-12 22:38:51 overwrite stylesheets/screen.css 
+2014-08-12 22:39:06 overwrite stylesheets/screen.css 
+2014-08-12 22:39:23 overwrite stylesheets/screen.css 
+2014-08-12 22:52:54 overwrite stylesheets/screen.css 
+2014-08-12 22:54:24 overwrite stylesheets/screen.css 
+2014-08-12 22:55:06 overwrite stylesheets/screen.css 
+2014-08-12 23:06:39 overwrite stylesheets/screen.css 
+2014-08-12 23:07:00 overwrite stylesheets/screen.css 
+2014-08-12 23:07:47 overwrite stylesheets/screen.css 
+2014-08-12 23:07:57 overwrite stylesheets/screen.css 
+2014-08-12 23:08:45 overwrite stylesheets/screen.css 
+2014-08-12 23:09:23 overwrite stylesheets/screen.css 
+2014-08-12 23:09:40 overwrite stylesheets/screen.css 
+2014-08-12 23:13:44 overwrite stylesheets/screen.css 
+2014-08-12 23:14:31 overwrite stylesheets/screen.css 
+2014-08-12 23:14:59 overwrite stylesheets/screen.css 
+2014-08-12 23:15:26 overwrite stylesheets/screen.css 
+2014-08-12 23:15:55 overwrite stylesheets/screen.css 
+2014-08-12 23:16:30 overwrite stylesheets/screen.css 
+2014-08-12 23:16:45 overwrite stylesheets/screen.css 
+2014-08-12 23:17:03 overwrite stylesheets/screen.css 
+2014-08-12 23:17:21 overwrite stylesheets/screen.css 
+2014-08-12 23:17:41 overwrite stylesheets/screen.css 
+2014-08-12 23:18:36 overwrite stylesheets/screen.css 
+2014-08-12 23:19:11 overwrite stylesheets/screen.css 
+2014-08-12 23:19:56 overwrite stylesheets/screen.css 
+2014-08-12 23:20:33 overwrite stylesheets/screen.css 
+2014-08-12 23:21:38 overwrite stylesheets/screen.css 
+2014-08-12 23:22:33 overwrite stylesheets/screen.css 
+2014-08-12 23:30:18 overwrite stylesheets/screen.css 
+2014-08-12 23:30:37 overwrite stylesheets/screen.css 
+2014-08-12 23:31:45 overwrite stylesheets/screen.css 
+2014-08-12 23:33:03 overwrite stylesheets/screen.css 
+2014-08-12 23:33:26 overwrite stylesheets/screen.css 
+2014-08-12 23:35:39 overwrite stylesheets/screen.css 
+2014-08-12 23:35:51 overwrite stylesheets/screen.css 
+2014-08-12 23:56:36 overwrite stylesheets/screen.css 
+2014-08-12 23:58:22 identical stylesheets/screen.css 
+2014-08-13 11:07:12 overwrite stylesheets/screen.css 
+2014-08-13 11:08:03 overwrite stylesheets/screen.css 
+2014-08-13 11:55:09 overwrite stylesheets/screen.css 
+2014-08-13 11:58:51     error sass/screen.scss (Line 18: File to import not found or unreadable: body.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-13 11:58:51 overwrite stylesheets/screen.css 
+2014-08-13 11:59:10 overwrite stylesheets/screen.css 
+2014-08-13 12:07:50 overwrite stylesheets/screen.css 
+2014-08-13 12:10:50 overwrite stylesheets/screen.css 
+2014-08-13 12:12:25 overwrite stylesheets/screen.css 
+2014-08-13 12:14:40 overwrite stylesheets/screen.css 
+2014-08-13 12:15:07 overwrite stylesheets/screen.css 
+2014-08-13 12:16:03 overwrite stylesheets/screen.css 
+2014-08-13 12:17:24 overwrite stylesheets/screen.css 
+2014-08-13 12:23:42 overwrite stylesheets/screen.css 
+2014-08-13 12:24:13 overwrite stylesheets/screen.css 
+2014-08-13 12:24:44 overwrite stylesheets/screen.css 
+2014-08-13 12:27:35 overwrite stylesheets/screen.css 
+2014-08-13 12:28:36 overwrite stylesheets/screen.css 
+2014-08-13 12:29:26 overwrite stylesheets/screen.css 
+2014-08-13 12:32:02 overwrite stylesheets/screen.css 
+2014-08-13 13:08:04 overwrite stylesheets/screen.css 
+2014-08-13 13:08:35 overwrite stylesheets/screen.css 
+2014-08-13 13:09:38 overwrite stylesheets/screen.css 
+2014-08-13 13:10:07 overwrite stylesheets/screen.css 
+2014-08-13 13:10:27 overwrite stylesheets/screen.css 
+2014-08-13 13:10:59 overwrite stylesheets/screen.css 
+2014-08-13 13:13:50 overwrite stylesheets/screen.css 
+2014-08-13 13:14:29 overwrite stylesheets/screen.css 
+2014-08-13 13:21:28 overwrite stylesheets/screen.css 
+2014-08-13 13:23:16 overwrite stylesheets/screen.css 
+2014-08-13 13:23:26 overwrite stylesheets/screen.css 
+2014-08-13 13:23:31 overwrite stylesheets/screen.css 
+2014-08-13 13:24:01 overwrite stylesheets/screen.css 
+2014-08-13 13:24:27 overwrite stylesheets/screen.css 
+2014-08-13 13:25:55 overwrite stylesheets/screen.css 
+2014-08-13 13:26:05 overwrite stylesheets/screen.css 
+2014-08-13 13:26:38 overwrite stylesheets/screen.css 
+2014-08-13 13:27:48 overwrite stylesheets/screen.css 
+2014-08-13 13:28:31 overwrite stylesheets/screen.css 
+2014-08-13 13:29:04 overwrite stylesheets/screen.css 
+2014-08-13 13:29:46 overwrite stylesheets/screen.css 
+2014-08-13 13:30:03 overwrite stylesheets/screen.css 
+2014-08-13 13:30:23 overwrite stylesheets/screen.css 
+2014-08-13 13:30:36 overwrite stylesheets/screen.css 
+2014-08-13 13:30:45 overwrite stylesheets/screen.css 
+2014-08-13 13:31:24 overwrite stylesheets/screen.css 
+2014-08-13 13:31:37 overwrite stylesheets/screen.css 
+2014-08-13 13:31:44 overwrite stylesheets/screen.css 
+2014-08-13 13:32:05 overwrite stylesheets/screen.css 
+2014-08-13 13:33:06     error sass/screen.scss (Line 30 of sass/_aesthetic-main.scss: Invalid CSS after "		color": expected ";", was ": #777;")
+2014-08-13 13:33:06 overwrite stylesheets/screen.css 
+2014-08-13 13:33:29 overwrite stylesheets/screen.css 
+2014-08-13 13:34:11 overwrite stylesheets/screen.css 
+2014-08-13 13:34:29 overwrite stylesheets/screen.css 
+2014-08-13 13:35:11 overwrite stylesheets/screen.css 
+2014-08-13 13:35:23 overwrite stylesheets/screen.css 
+2014-08-13 13:36:43 overwrite stylesheets/screen.css 
+2014-08-13 13:37:02 overwrite stylesheets/screen.css 
+2014-08-13 13:37:20 overwrite stylesheets/screen.css 
+2014-08-13 13:37:41 overwrite stylesheets/screen.css 
+2014-08-13 13:38:01 overwrite stylesheets/screen.css 
+2014-08-13 13:40:09 overwrite stylesheets/screen.css 
+2014-08-13 13:47:47 identical stylesheets/screen.css 
+2014-08-13 13:55:19 overwrite stylesheets/screen.css 
+2014-08-13 13:58:38 overwrite stylesheets/screen.css 
+2014-08-13 14:05:11 overwrite stylesheets/screen.css 
+2014-08-13 14:05:55 overwrite stylesheets/screen.css 
+2014-08-13 14:06:49 overwrite stylesheets/screen.css 
+2014-08-13 14:07:54 overwrite stylesheets/screen.css 
+2014-08-13 14:09:18 overwrite stylesheets/screen.css 
+2014-08-13 14:10:30 overwrite stylesheets/screen.css 
+2014-08-13 14:10:40 overwrite stylesheets/screen.css 
+2014-08-13 14:16:07 overwrite stylesheets/screen.css 
+2014-08-13 14:17:16 overwrite stylesheets/screen.css 
+2014-08-13 14:17:54 overwrite stylesheets/screen.css 
+2014-08-13 14:18:59 overwrite stylesheets/screen.css 
+2014-08-13 14:19:56 overwrite stylesheets/screen.css 
+2014-08-13 14:20:21 overwrite stylesheets/screen.css 
+2014-08-13 14:22:41 overwrite stylesheets/screen.css 
+2014-08-13 14:23:14 overwrite stylesheets/screen.css 
+2014-08-13 14:23:19 overwrite stylesheets/screen.css 
+2014-08-13 14:24:05 overwrite stylesheets/screen.css 
+2014-08-13 14:29:48 overwrite stylesheets/screen.css 
+2014-08-13 14:30:48     error sass/screen.scss (Line 334: Invalid CSS after "...塊有待改進": expected "}", was "")
+2014-08-13 14:30:48 overwrite stylesheets/screen.css 
+2014-08-13 14:31:11     error sass/screen.scss (Line 334: Invalid CSS after "...塊有待改進": expected "}", was "")
+2014-08-13 14:31:11 identical stylesheets/screen.css 
+2014-08-13 14:31:29 overwrite stylesheets/screen.css 
+2014-08-13 14:31:54 overwrite stylesheets/screen.css 
+2014-08-13 14:32:35 overwrite stylesheets/screen.css 
+2014-08-13 14:33:22 overwrite stylesheets/screen.css 
+2014-08-13 14:35:21     error sass/screen.scss (Line 20: File to import not found or unreadable: aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-13 14:35:21 overwrite stylesheets/screen.css 
+2014-08-13 14:35:21     error sass/screen.scss (Line 20: File to import not found or unreadable: aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-13 14:35:21 identical stylesheets/screen.css 
+2014-08-13 14:35:27     error sass/screen.scss (Line 20: File to import not found or unreadable: aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-13 14:35:27 overwrite stylesheets/screen.css 
+2014-08-13 14:36:00     error sass/screen.scss (Line 20: File to import not found or unreadable: aesthetic-main.
+Load paths:
+  C:/Users/Sakurayo/Desktop/aesthetic/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Sakurayo/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Sakurayo/Desktop/vendor/assets/stylesheets)
+2014-08-13 14:36:00 overwrite stylesheets/screen.css 
+2014-08-13 14:37:06 overwrite stylesheets/screen.css 
+2014-08-13 14:38:22 overwrite stylesheets/screen.css 
+2014-08-13 14:38:33 overwrite stylesheets/screen.css 
+2014-08-13 14:38:47 overwrite stylesheets/screen.css 
+2014-08-13 14:39:02 overwrite stylesheets/screen.css 
+2014-08-13 14:39:37 overwrite stylesheets/screen.css 
+2014-08-13 14:40:18 overwrite stylesheets/screen.css 
+2014-08-13 14:40:46 overwrite stylesheets/screen.css 
+2014-08-13 14:41:05 overwrite stylesheets/screen.css 
+2014-08-13 14:41:36 overwrite stylesheets/screen.css 
+2014-08-13 14:41:50 overwrite stylesheets/screen.css 
+2014-08-13 14:42:15 overwrite stylesheets/screen.css 
+2014-08-13 14:42:37 overwrite stylesheets/screen.css 
+2014-08-13 14:42:50 overwrite stylesheets/screen.css 
+2014-08-13 14:43:10 overwrite stylesheets/screen.css 
+2014-08-13 14:43:15 overwrite stylesheets/screen.css 
+2014-08-13 14:43:39 overwrite stylesheets/screen.css 
+2014-08-13 14:43:51 overwrite stylesheets/screen.css 
+2014-08-13 14:44:58 overwrite stylesheets/screen.css 
+2014-08-13 14:45:58 overwrite stylesheets/screen.css 
+2014-08-13 14:46:24 overwrite stylesheets/screen.css 
+2014-08-13 14:46:38 overwrite stylesheets/screen.css 
+2014-08-13 14:47:00 overwrite stylesheets/screen.css 
+2014-08-13 14:47:04 overwrite stylesheets/screen.css 
+2014-08-13 14:47:41 overwrite stylesheets/screen.css 
+2014-08-13 14:53:41 overwrite stylesheets/screen.css 
+2014-08-13 14:54:04 overwrite stylesheets/screen.css 
+2014-08-13 14:54:47 overwrite stylesheets/screen.css 
+2014-08-13 15:59:44 overwrite stylesheets/screen.css 
+2014-08-13 16:00:31     error sass/screen.scss (Line 26: Invalid CSS after "@import "else"": expected selector or at-rule, was "$Roboto-font: '...")
+2014-08-13 16:00:31 overwrite stylesheets/screen.css 
+2014-08-13 16:00:41 overwrite stylesheets/screen.css 
+2014-08-13 16:01:39 overwrite stylesheets/screen.css 
+2014-08-13 16:03:37 overwrite stylesheets/screen.css 
+2014-08-13 16:07:37 overwrite stylesheets/screen.css 
+2014-08-13 16:12:30 overwrite stylesheets/screen.css 
+2014-08-13 16:14:48 overwrite stylesheets/screen.css 
+2014-08-13 16:15:22 overwrite stylesheets/screen.css 
+2014-08-13 16:16:59 overwrite stylesheets/screen.css 
+2014-08-13 16:17:48 overwrite stylesheets/screen.css 
+2014-08-13 16:17:52 overwrite stylesheets/screen.css 
+2014-08-13 16:18:05 overwrite stylesheets/screen.css 
+2014-08-13 16:18:54 overwrite stylesheets/screen.css 
+2014-08-13 16:19:18 overwrite stylesheets/screen.css 
+2014-08-13 16:20:08 overwrite stylesheets/screen.css 
+2014-08-13 16:20:33 overwrite stylesheets/screen.css 
+2014-08-13 16:20:48 overwrite stylesheets/screen.css 
+2014-08-13 16:21:15 overwrite stylesheets/screen.css 
+2014-08-13 16:21:47 overwrite stylesheets/screen.css 
+2014-08-13 16:23:58 overwrite stylesheets/screen.css 
+2014-08-13 16:25:20 overwrite stylesheets/screen.css 
+2014-08-13 16:25:58 overwrite stylesheets/screen.css 
+2014-08-13 16:27:22 overwrite stylesheets/screen.css 
+2014-08-13 16:27:52     error sass/screen.scss (Line 5 of sass/_else.scss: Undefined variable: "$background-image2".)
+2014-08-13 16:27:52 overwrite stylesheets/screen.css 
+2014-08-13 16:28:25     error sass/screen.scss (Line 5 of sass/_else.scss: Undefined variable: "$background-image2".)
+2014-08-13 16:28:25 identical stylesheets/screen.css 
+2014-08-13 16:28:46     error sass/screen.scss (Line 5 of sass/_else.scss: Undefined variable: "$background-image2".)
+2014-08-13 16:28:46 identical stylesheets/screen.css 
+2014-08-13 16:29:16     error sass/screen.scss (Line 5 of sass/_else.scss: Undefined variable: "$background-image2".)
+2014-08-13 16:29:16 identical stylesheets/screen.css 
+2014-08-13 16:29:24 overwrite stylesheets/screen.css 
+2014-08-13 16:29:29 overwrite stylesheets/screen.css 
+2014-08-13 16:43:03 overwrite stylesheets/screen.css 
+2014-08-13 16:43:28 overwrite stylesheets/screen.css 
+2014-08-13 16:52:31 overwrite stylesheets/screen.css 
+2014-08-13 16:54:50 overwrite stylesheets/screen.css 
+2014-08-13 16:55:05     error sass/screen.scss (Line 15 of sass/_else.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-13 16:55:05 overwrite stylesheets/screen.css 
+2014-08-13 16:56:01     error sass/screen.scss (Line 16 of sass/_else.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-13 16:56:01 overwrite stylesheets/screen.css 
+2014-08-13 16:56:18 overwrite stylesheets/screen.css 
+2014-08-13 16:56:39     error sass/screen.scss (Line 16 of sass/_else.scss: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-08-13 16:56:39 overwrite stylesheets/screen.css 
+2014-08-13 16:56:49 overwrite stylesheets/screen.css 
+2014-08-13 16:57:15 overwrite stylesheets/screen.css 
+2014-08-13 17:00:34 overwrite stylesheets/screen.css 
+2014-08-13 17:01:33 overwrite stylesheets/screen.css 
+2014-08-13 17:05:47 overwrite stylesheets/screen.css 
+2014-08-13 17:05:59 overwrite stylesheets/screen.css 
+2014-08-13 17:06:31     error sass/screen.scss (Line 9 of sass/_else.scss: Invalid CSS after "	padding": expected ";", was ": 58px 0 118px;")
+2014-08-13 17:06:31 overwrite stylesheets/screen.css 
+2014-08-13 17:06:47 overwrite stylesheets/screen.css 
+2014-08-13 17:07:37 overwrite stylesheets/screen.css 
+2014-08-13 17:07:52 overwrite stylesheets/screen.css 
+2014-08-13 17:08:37 overwrite stylesheets/screen.css 
+2014-08-13 17:09:21 overwrite stylesheets/screen.css 
+2014-08-13 17:09:45 overwrite stylesheets/screen.css 
+2014-08-13 17:10:07 overwrite stylesheets/screen.css 
+2014-08-13 17:10:31 overwrite stylesheets/screen.css 
+2014-08-13 17:10:36 overwrite stylesheets/screen.css 
+2014-08-13 17:10:49 overwrite stylesheets/screen.css 
+2014-08-13 17:11:27 overwrite stylesheets/screen.css 
+2014-08-13 17:11:31 overwrite stylesheets/screen.css 
+2014-08-13 17:12:01 overwrite stylesheets/screen.css 
+2014-08-13 17:12:47 overwrite stylesheets/screen.css 
+2014-08-13 17:13:20 overwrite stylesheets/screen.css 
+2014-08-13 17:14:50 overwrite stylesheets/screen.css 
+2014-08-13 17:15:36 overwrite stylesheets/screen.css 
+2014-08-13 17:16:13 overwrite stylesheets/screen.css 
+2014-08-13 17:16:27 overwrite stylesheets/screen.css 
+2014-08-13 17:17:18 overwrite stylesheets/screen.css 
+2014-08-13 17:17:53 overwrite stylesheets/screen.css 
+2014-08-13 17:18:48 overwrite stylesheets/screen.css 
+2014-08-13 17:18:55 overwrite stylesheets/screen.css 
+2014-08-13 17:19:20 overwrite stylesheets/screen.css 
+2014-08-13 17:19:45 overwrite stylesheets/screen.css 
+2014-08-13 17:24:25 overwrite stylesheets/screen.css 
+2014-08-13 17:24:35 overwrite stylesheets/screen.css 
+2014-08-13 17:25:13 overwrite stylesheets/screen.css 
+2014-08-13 17:27:36 overwrite stylesheets/screen.css 
+2014-08-13 17:29:52 overwrite stylesheets/screen.css 
+2014-08-13 17:30:30 overwrite stylesheets/screen.css 
+2014-08-13 17:34:27 overwrite stylesheets/screen.css 
+2014-08-13 17:34:48 overwrite stylesheets/screen.css 
+2014-08-13 17:35:03 overwrite stylesheets/screen.css 
+2014-08-13 17:35:34 overwrite stylesheets/screen.css 
+2014-08-13 17:36:13 overwrite stylesheets/screen.css 
+2014-08-13 17:36:49 overwrite stylesheets/screen.css 
+2014-08-13 17:37:14 overwrite stylesheets/screen.css 
+2014-08-13 17:38:15 overwrite stylesheets/screen.css 
+2014-08-13 17:38:25 overwrite stylesheets/screen.css 
+2014-08-13 17:38:47 identical stylesheets/screen.css 
+2014-08-13 17:42:22 overwrite stylesheets/screen.css 
+2014-08-13 17:44:57 identical stylesheets/screen.css 
+2014-08-13 17:45:14 overwrite stylesheets/screen.css 
+2014-08-13 17:45:43 overwrite stylesheets/screen.css 
+2014-08-13 17:46:15 overwrite stylesheets/screen.css 
+2014-08-13 17:47:59 overwrite stylesheets/screen.css 
+2014-08-13 17:48:48 overwrite stylesheets/screen.css 
+2014-08-13 17:49:07 overwrite stylesheets/screen.css 
+2014-08-13 17:49:17 overwrite stylesheets/screen.css 
+2014-08-13 17:51:10 overwrite stylesheets/screen.css 
+2014-08-13 17:51:45 overwrite stylesheets/screen.css 
+2014-08-13 17:52:50 overwrite stylesheets/screen.css 
+2014-08-13 17:53:10 overwrite stylesheets/screen.css 
+2014-08-13 17:53:14 overwrite stylesheets/screen.css 
+2014-08-13 17:58:52 overwrite stylesheets/screen.css 
+2014-08-13 19:04:29 overwrite stylesheets/screen.css 
+2014-08-13 19:06:11 overwrite stylesheets/screen.css 
+2014-08-13 19:12:29     error sass/screen.scss (Line 50 of sass/_else.scss: Invalid CSS after "// surgeon.html": expected "}", was "")
+2014-08-13 19:12:29 overwrite stylesheets/screen.css 
+2014-08-13 19:12:33 overwrite stylesheets/screen.css 
+2014-08-13 19:13:48 overwrite stylesheets/screen.css 
+2014-08-13 19:18:28 overwrite stylesheets/screen.css 
+2014-08-13 19:29:22 overwrite stylesheets/screen.css 
+2014-08-13 19:31:44 overwrite stylesheets/screen.css 
+2014-08-13 19:32:01 overwrite stylesheets/screen.css 
+2014-08-13 19:36:55 overwrite stylesheets/screen.css 
+2014-08-13 19:37:11 overwrite stylesheets/screen.css 
+2014-08-13 19:38:51 overwrite stylesheets/screen.css 
+2014-08-13 19:42:24 overwrite stylesheets/screen.css 
+2014-08-13 19:46:40 overwrite stylesheets/screen.css 
+2014-08-13 19:47:36 overwrite stylesheets/screen.css 
+2014-08-13 19:48:59 overwrite stylesheets/screen.css 
+2014-08-13 19:49:03 overwrite stylesheets/screen.css 
+2014-08-13 19:49:19 overwrite stylesheets/screen.css 
+2014-08-13 19:49:40 overwrite stylesheets/screen.css 
+2014-08-13 19:51:30 overwrite stylesheets/screen.css 
+2014-08-13 19:51:49 overwrite stylesheets/screen.css 
+2014-08-13 19:52:18 overwrite stylesheets/screen.css 
+2014-08-13 19:53:30 overwrite stylesheets/screen.css 
+2014-08-13 19:55:32 overwrite stylesheets/screen.css 
+2014-08-13 19:56:09     error sass/screen.scss (Line 41 of sass/_else.scss: Invalid CSS after "			left:": expected expression (e.g. 1px, bold), was "}")
+2014-08-13 19:56:09 overwrite stylesheets/screen.css 
+2014-08-13 19:56:31 overwrite stylesheets/screen.css 
+2014-08-13 19:56:55 overwrite stylesheets/screen.css 
+2014-08-13 19:57:18 overwrite stylesheets/screen.css 
+2014-08-13 19:58:23 overwrite stylesheets/screen.css 
+2014-08-13 19:59:05 overwrite stylesheets/screen.css 
+2014-08-13 19:59:29 overwrite stylesheets/screen.css 
+2014-08-13 19:59:46 overwrite stylesheets/screen.css 
+2014-08-13 20:00:00 overwrite stylesheets/screen.css 
+2014-08-13 20:00:22 overwrite stylesheets/screen.css 
+2014-08-13 20:00:36 overwrite stylesheets/screen.css 
+2014-08-13 22:00:05 overwrite stylesheets/screen.css 
+2014-08-13 22:00:18 overwrite stylesheets/screen.css 
+2014-08-13 22:00:28 overwrite stylesheets/screen.css 
+2014-08-13 22:00:46 overwrite stylesheets/screen.css 
+2014-08-13 22:01:01 overwrite stylesheets/screen.css 
+2014-08-13 22:02:36 overwrite stylesheets/screen.css 
+2014-08-13 22:03:03 overwrite stylesheets/screen.css 
+2014-08-13 22:05:18 overwrite stylesheets/screen.css 
+2014-08-13 22:05:56 overwrite stylesheets/screen.css 
+2014-08-13 22:08:10 overwrite stylesheets/screen.css 
+2014-08-13 22:10:38 overwrite stylesheets/screen.css 
+2014-08-13 22:13:05 overwrite stylesheets/screen.css 
+2014-08-13 22:13:44 overwrite stylesheets/screen.css 
+2014-08-13 22:14:20 overwrite stylesheets/screen.css 
+2014-08-13 22:15:19 overwrite stylesheets/screen.css 
+2014-08-13 22:16:38 overwrite stylesheets/screen.css 
+2014-08-13 22:16:58     error sass/screen.scss (Line 38 of sass/_else.scss: Invalid CSS after "...adding: -bottom": expected ";", was ": 30px;")
+2014-08-13 22:16:58 overwrite stylesheets/screen.css 
+2014-08-13 22:17:02 overwrite stylesheets/screen.css 
+2014-08-13 22:17:06 identical stylesheets/screen.css 
+2014-08-13 22:18:02 overwrite stylesheets/screen.css 
+2014-08-13 22:18:10 overwrite stylesheets/screen.css 
+2014-08-13 22:18:25 overwrite stylesheets/screen.css 
+2014-08-13 22:18:46 overwrite stylesheets/screen.css 
+2014-08-13 22:20:27 overwrite stylesheets/screen.css 
+2014-08-13 22:28:58 overwrite stylesheets/screen.css 
+2014-08-13 22:29:29 overwrite stylesheets/screen.css 
+2014-08-13 22:30:32 overwrite stylesheets/screen.css 
+2014-08-13 22:30:57 overwrite stylesheets/screen.css 
+2014-08-13 22:31:14 overwrite stylesheets/screen.css 
+2014-08-13 22:32:18 identical stylesheets/screen.css 
+2014-08-13 22:34:45 overwrite stylesheets/screen.css 
+2014-08-13 22:35:20 overwrite stylesheets/screen.css 
+2014-08-13 22:35:35 overwrite stylesheets/screen.css 
+2014-08-13 22:36:01 overwrite stylesheets/screen.css 
+2014-08-13 22:36:14 overwrite stylesheets/screen.css 
+2014-08-13 22:39:16 overwrite stylesheets/screen.css 
+2014-08-13 22:46:00 overwrite stylesheets/screen.css 
+2014-08-13 22:49:06 overwrite stylesheets/screen.css 
+2014-08-13 22:49:59 overwrite stylesheets/screen.css 
+2014-08-13 22:56:34 overwrite stylesheets/screen.css 
+2014-08-13 22:57:01 overwrite stylesheets/screen.css 
+2014-08-13 22:58:05 overwrite stylesheets/screen.css 
+2014-08-13 22:58:20 overwrite stylesheets/screen.css 
+2014-08-13 22:58:37 overwrite stylesheets/screen.css 
+2014-08-13 22:58:58 overwrite stylesheets/screen.css 
+2014-08-13 23:03:02 overwrite stylesheets/screen.css 
+2014-08-13 23:03:57 overwrite stylesheets/screen.css 
+2014-08-13 23:10:29 overwrite stylesheets/screen.css 
+2014-08-13 23:10:47 identical stylesheets/screen.css 
+2014-08-13 23:12:04 overwrite stylesheets/screen.css 
+2014-08-13 23:14:22 overwrite stylesheets/screen.css 
+2014-08-13 23:14:42 overwrite stylesheets/screen.css 
+2014-08-13 23:21:18 overwrite stylesheets/screen.css 
+2014-08-13 23:23:22 overwrite stylesheets/screen.css 
+2014-08-13 23:27:12 overwrite stylesheets/screen.css 
+2014-08-13 23:36:44 overwrite stylesheets/screen.css 
+2014-08-13 23:37:10 overwrite stylesheets/screen.css 
+2014-08-13 23:41:21 overwrite stylesheets/screen.css 
+2014-08-13 23:41:47 overwrite stylesheets/screen.css 
+2014-08-13 23:41:59 overwrite stylesheets/screen.css 
+2014-08-13 23:42:23 overwrite stylesheets/screen.css 
+2014-08-13 23:42:58 overwrite stylesheets/screen.css 
+2014-08-13 23:43:45 overwrite stylesheets/screen.css 
+2014-08-13 23:43:52 overwrite stylesheets/screen.css 
+2014-08-13 23:48:04 overwrite stylesheets/screen.css 
+2014-08-13 23:48:31 overwrite stylesheets/screen.css 
+2014-08-13 23:49:39 overwrite stylesheets/screen.css 
+2014-08-13 23:49:44 overwrite stylesheets/screen.css 
+2014-08-14 13:24:12 overwrite stylesheets/screen.css 
+2014-08-14 13:25:39 overwrite stylesheets/screen.css 
+2014-08-14 13:26:02 overwrite stylesheets/screen.css 
+2014-08-14 18:49:59 overwrite stylesheets/screen.css 
+2014-08-14 18:50:46 overwrite stylesheets/screen.css 
+2014-08-14 18:54:55 overwrite stylesheets/screen.css 
+2014-08-14 18:56:04 overwrite stylesheets/screen.css 
+2014-08-14 19:07:58 overwrite stylesheets/screen.css 
+2014-08-14 19:08:32 overwrite stylesheets/screen.css 
+2014-08-14 19:16:01 overwrite stylesheets/screen.css 
+2014-08-14 19:16:54 overwrite stylesheets/screen.css 
+2014-08-14 19:17:36 overwrite stylesheets/screen.css 
+2014-08-14 19:18:36 overwrite stylesheets/screen.css 
+2014-08-14 19:20:15 overwrite stylesheets/screen.css 
+2014-08-14 19:21:28 overwrite stylesheets/screen.css 
+2014-08-14 19:24:24 overwrite stylesheets/screen.css 
+2014-08-14 19:35:09 overwrite stylesheets/screen.css 
+2014-08-14 19:37:19 overwrite stylesheets/screen.css 
+2014-08-14 19:39:22 overwrite stylesheets/screen.css 
+2014-08-14 19:49:19 overwrite stylesheets/screen.css 
+2014-08-14 19:51:17 overwrite stylesheets/screen.css 
+2014-08-14 19:51:38 overwrite stylesheets/screen.css 
+2014-08-14 19:52:11 overwrite stylesheets/screen.css 
+2014-08-14 19:52:15 identical stylesheets/screen.css 
+2014-08-14 19:53:31 overwrite stylesheets/screen.css 
+2014-08-14 19:54:06 overwrite stylesheets/screen.css 
+2014-08-14 19:55:35 overwrite stylesheets/screen.css 
+2014-08-14 20:13:36 overwrite stylesheets/screen.css 
+2014-08-14 20:13:56 overwrite stylesheets/screen.css 
+2014-08-14 21:15:07 overwrite stylesheets/screen.css 
+2014-08-14 21:16:35 identical stylesheets/screen.css 
+2014-08-14 21:53:40 overwrite stylesheets/screen.css 
+2014-08-14 21:57:07 overwrite stylesheets/screen.css 
