@@ -1,0 +1,33 @@
+/* line 553, ../sass/screen.scss */
+.FAQS-content {
+  padding: 0 120px 98px;
+}
+/* line 555, ../sass/screen.scss */
+.FAQS-content h3 {
+  text-align: center;
+  margin-top: 50px;
+}
+/* line 560, ../sass/screen.scss */
+.FAQS-content h4 {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+/* line 565, ../sass/screen.scss */
+.FAQS-content h5 {
+  font-weight: bolder;
+}
+/* line 568, ../sass/screen.scss */
+.FAQS-content .question {
+  margin-top: 30px;
+}
+/* line 571, ../sass/screen.scss */
+.FAQS-content p {
+  display: block;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #a57c4f;
+}
+/* line 575, ../sass/screen.scss */
+.FAQS-content p:last-child {
+  border-bottom: 0 solid;
+}

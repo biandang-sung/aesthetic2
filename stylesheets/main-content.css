@@ -1,0 +1,47 @@
+/* line 72, ../sass/screen.scss */
+.main-content, .pagination-main-nav {
+  position: relative;
+  min-width: 100%;
+  width: auto;
+  height: 100%;
+  background-image: url(../images/img01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 80, ../sass/screen.scss */
+.main-content .main-word-content, .pagination-main-nav .main-word-content {
+  max-width: 500px;
+  position: absolute;
+  margin: 150px 0 0 150px;
+}
+/* line 86, ../sass/screen.scss */
+.main-content .main-word-content h1, .pagination-main-nav .main-word-content h1 {
+  font-size: 72px;
+  color: #FFF;
+  font-weight: 100;
+  letter-spacing: 3px;
+  line-height: 87px;
+  word-spacing: 1px;
+  padding-bottom: 10px;
+}
+/* line 95, ../sass/screen.scss */
+.main-content .main-word-content h3, .pagination-main-nav .main-word-content h3 {
+  font-size: 22px;
+  color: #bcb7b8;
+  font-weight: 300;
+  word-spacing: 2px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+/* line 104, ../sass/screen.scss */
+.main-content .main-word-content a, .pagination-main-nav .main-word-content a {
+  font-size: 19px;
+  color: #a69ea1;
+  padding: 16px 40px 17px;
+  margin-left: 7px;
+}
+/* line 105, ../sass/screen.scss */
+.main-content .main-word-content a:hover, .pagination-main-nav .main-word-content a:hover {
+  color: #C2C2C2;
+  border: 1px solid #C2C2C2;
+}

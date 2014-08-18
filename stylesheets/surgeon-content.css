@@ -1,0 +1,61 @@
+/* line 491, ../sass/screen.scss */
+.surgeon-content {
+  display: block;
+  padding: 58px 0 118px;
+}
+/* line 495, ../sass/screen.scss */
+.surgeon-content h2 {
+  text-align: center;
+}
+/* line 499, ../sass/screen.scss */
+.surgeon-content h3 {
+  text-align: center;
+  margin: 10px 0 60px 0;
+}
+/* line 505, ../sass/screen.scss */
+.surgeon-content .surgeon-introduction {
+  text-align: left;
+  width: 50%;
+  margin: 0 4% 2% 0;
+  height: 696px;
+  float: left;
+  background-image: url(../images/img09.jpg);
+  background-size: cover;
+}
+/* line 516, ../sass/screen.scss */
+.surgeon-content .surgeon-text {
+  position: relative;
+  padding: 60px 9px 0 40px;
+  margin: 0 6% 0 0;
+  text-align: left;
+}
+/* line 521, ../sass/screen.scss */
+.surgeon-content .surgeon-text h5 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+/* line 527, ../sass/screen.scss */
+.surgeon-content .surgeon-text p {
+  margin: 0 0 25px;
+}
+/* line 529, ../sass/screen.scss */
+.surgeon-content .surgeon-text p:last-child {
+  line-height: 3em;
+}
+/* line 533, ../sass/screen.scss */
+.surgeon-content .surgeon-text li {
+  margin-top: 30px;
+}
+/* line 535, ../sass/screen.scss */
+.surgeon-content .surgeon-text li:first-child {
+  margin: 0;
+}
+/* line 541, ../sass/screen.scss */
+.surgeon-content .surgeon-text .date {
+  position: absolute;
+}
+/* line 545, ../sass/screen.scss */
+.surgeon-content .surgeon-text .thing {
+  padding-left: 12%;
+}

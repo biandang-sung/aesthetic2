@@ -1,0 +1,97 @@
+/* line 219, ../sass/screen.scss */
+.ourprocedures-content {
+  margin-top: 30px;
+  position: relative;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+/* line 234, ../sass/screen.scss */
+.ourprocedures-content h3 {
+  padding: 10px 0 30px 0;
+}
+/* line 238, ../sass/screen.scss */
+.ourprocedures-content a {
+  border-color: #a57c4f;
+  color: #bd9d7a;
+}
+/* line 240, ../sass/screen.scss */
+.ourprocedures-content a:hover {
+  color: #E0A241;
+  border: 1px solid #E0A241;
+}
+
+/* line 252, ../sass/screen.scss */
+.tabs {
+  display: inline-block;
+  min-width: 100%;
+  width: auto;
+  height: 150%;
+  list-style: none;
+  position: relative;
+}
+/* line 262, ../sass/screen.scss */
+.tabs li {
+  display: inline;
+}
+/* line 267, ../sass/screen.scss */
+.tabs label {
+  padding: 2px 10px;
+  border-radius: 5px;
+  color: #bd9d7a;
+  text-transform: uppercase;
+  border: 1px solid #FFF;
+  cursor: pointer;
+}
+/* line 277, ../sass/screen.scss */
+.tabs .tab-contents {
+  text-align: left;
+  z-index: 2;
+  display: none;
+  line-height: 25px;
+  padding: 25px;
+  position: absolute;
+  top: 53px;
+  left: -50px;
+}
+/* line 286, ../sass/screen.scss */
+.tabs .tab-contents .image-box {
+  float: left;
+  width: 50%;
+  height: 773px;
+  background-image: url(../images/img06.jpg);
+  background-size: cover;
+}
+/* line 296, ../sass/screen.scss */
+.tabs .tab-contents .image-box2 {
+  float: left;
+  width: 50%;
+  height: 773px;
+  background-image: url(../images/img07.jpg);
+  background-size: cover;
+}
+/* line 304, ../sass/screen.scss */
+.tabs .tab-contents .text-box {
+  float: right;
+  width: 39%;
+  margin: 50px 5%;
+}
+/* line 308, ../sass/screen.scss */
+.tabs .tab-contents .text-box a {
+  display: block;
+  padding: 13px 150px 14px;
+  margin: 20px;
+}
+/* line 316, ../sass/screen.scss */
+.tabs input[type="radio"] {
+  display: none;
+}
+/* line 326, ../sass/screen.scss */
+.tabs [id^="tab"]:checked ~ [id^="tab-content"] {
+  display: block;
+  width: 100%;
+}
+/* line 331, ../sass/screen.scss */
+.tabs input[type=radio]:checked + label {
+  border: 1px solid #a57c4f;
+}

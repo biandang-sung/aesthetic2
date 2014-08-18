@@ -1,0 +1,39 @@
+/* line 118, ../sass/screen.scss */
+.about-content {
+  display: block;
+  width: auto;
+  height: auto;
+  background-color: #a6797e;
+  text-align: center;
+  transition: all 1s linear;
+  padding: 64px 194px 50px 200px;
+}
+/* line 126, ../sass/screen.scss */
+.about-content h2 {
+  font-weight: 300;
+  font-size: 43px;
+  letter-spacing: 1px;
+  line-height: 48px;
+  color: #FFF;
+}
+/* line 134, ../sass/screen.scss */
+.about-content h3 {
+  padding: 10px 0 20px 0;
+}
+/* line 138, ../sass/screen.scss */
+.about-content p {
+  word-spacing: 2px;
+  color: #dfcdcf;
+  margin-bottom: 50px;
+}
+/* line 144, ../sass/screen.scss */
+.about-content a {
+  text-align: center;
+  color: #caafb2;
+  padding: 20px 20px 20px;
+}
+/* line 146, ../sass/screen.scss */
+.about-content a:hover {
+  color: #FFCAD1;
+  border: 1px solid #FFCAD1;
+}
