@@ -1,29 +1,24 @@
 
 // 問題：
-// 1.畫面縮小時，class="aesthetic-ourprocedures區塊，會蓋住class="aesthetic-ourteam"的圖片
-// 2.畫面縮小時，class="aesthetic-ourprocedures"裡面的圖片，會被吃掉
-// 3.class="aesthetic-ourprocedures"裡面的問題：
+// 1.畫面縮小時，class="ourprocedures-content區塊，會蓋住class="ourteam-content"的圖片
+// 2.畫面縮小時，class="ourprocedures-content"裡面的圖片，會被吃掉
+// 3.class="ourprocedures-content"裡面的問題：
 // 		(1)標題OUR PROCEDURES上面那塊的top
 // 		(2)label的GET A 3D SIMULATION區塊標題跟a怪怪的
-// 		(3)我有在label上設cursor: pointer，label應該會變成手勢鍵，不過我發現手勢鍵是在字的外面出現
-// 		(4)被點選的label想要有外框，我是這樣設：
-	// [id^="tab"]:checked + [class^=".labels"] { 
-
-	// 	    border: 1px solid #a57c4f;
-	// 	}
-	// 	不過沒反應。
-// 4.畫面放大時，class="aesthetic-contacts這個區塊會往上跑，被class="aesthetic-ourprocedures區塊蓋住，
+// 4.畫面放大時，class="contacts-content這個區塊會往上跑，被class="ourprocedures-content區塊蓋住，
 // 為什麼會這樣?
 // 5.怎麼樣可以固定好表單裡的內容(像是input textarea)寬高大小及位子等，好讓我在調整更大區塊時，表單內容不會跑位
-// 6.怎麼讓地圖固定大小，像是把畫面縮小百分比時，它可以跟捲軸黏在一起上不會跑位
+// 6.class="map-content"裡面的問題：
+// 		(1)怎麼讓地圖固定大小，像是把畫面縮小百分比時，它可以跟捲軸黏在一起上不會跑位
+// 		(2)label的位置
 // 7.logo想要滑鼠移到字後，才會出現手勢鍵，字以外不要
-// 8.沒辦法用滑鼠選取class="aesthetic-ourteam"圖片裡的字，反而選到了下面的"OUR PROCEDURES"字
+// 8.沒辦法用滑鼠選取class="ourteam-content"圖片裡的字，反而選到了下面的"OUR PROCEDURES"字
 
 @import "compass/reset";
-@import "header&footer";
-@import "aesthetic-contacts";
 @import "compass/CSS3";
-@import "else";
+
+@import "header&footer";
+
 
 
 
@@ -72,7 +67,9 @@ body{
 	position: relative;
 	overflow: hidden;
 }
-.aesthetic-main{
+
+// index.html主頁
+.main-content{
 	position: relative;
 	min-width: 100%;
 	width: auto;
@@ -80,7 +77,7 @@ body{
 	background-image: url(../images/img01.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-		.aesthetic-main-word{
+		.main-word-content{
 			max-width: 500px;
 			// background-color: red;
 			position: absolute;
@@ -117,7 +114,8 @@ body{
 			}
 		}
 }
-.aesthetic-about{
+
+.about-content{
 	display: block;
 	width: auto;
 	height: auto;
@@ -155,7 +153,7 @@ body{
 	}
 }
 
-.aesthetic-ourteam{
+.ourteam-content{
 	margin-top: 60px;
 	background-color: #FFF;
 	text-align: center;	
@@ -174,31 +172,31 @@ body{
 		color: #bca48a;
 
 	}
-	.aesthetic-ourteam-list{
+	.ourteam-list{
 		padding-top: 30px;
 		margin: 0;
-		.aesthetic-ourteam-people{
+		.ourteam-people{
 			float: left;
 			width: 25%;
 			position: relative;
-		.aesthetic-ourteam-photo1{
+		.ourteam-photo1{
 			background-image: url(../images/img02.jpg);
 
 		}
 
-		.aesthetic-ourteam-photo2{
+		.ourteam-photo2{
 			background-image: url(../images/img03.jpg);
 		}
 
-		.aesthetic-ourteam-photo3{
+		.ourteam-photo3{
 			background-image: url(../images/img04.jpg);
 		}
 
-		.aesthetic-ourteam-photo4{
+		.ourteam-photo4{
 			background-image: url(../images/img05.jpg);
 		}
 
-		div[class*=aesthetic-ourteam-photo]{
+		div[class*=ourteam-photo]{
 			display: block;
 			width: 100%;
 			height: 453px;
@@ -215,11 +213,10 @@ body{
 
 
 	}
-}			
-
+}		
 }
-// tab這一塊有待改進
-.aesthetic-ourprocedures{
+
+.ourprocedures-content{
 	margin-top: 30px; 
 	position: relative;
 	width: auto;
@@ -250,30 +247,32 @@ body{
 
 
 	}
-	.labels{
-	    	display: inline;
-	    	padding: 2px 10px;
-	    	border-radius: 5px;
-			color: #bd9d7a;
-	    	text-transform: uppercase;
-	    	border: 1px solid #FFF;
-	    	cursor: pointer;
-	}	
+
 
 	.tabs {
 		display: inline-block;
 		min-width: 100%;
 	  	width: auto;
 	  	height: 150%;
-	  	// background-color: green;
+
 	  	list-style: none;
 		position: relative;
 
 
 	  	li {
-	    	float: left;
-	    	// display: inline;
+	    	display: inline;
+
 	  	}
+
+	  	label{
+	  	    	padding: 2px 10px;
+	  	    	border-radius: 5px;
+	  			color: #bd9d7a;
+	  	    	text-transform: uppercase;
+	  	    	border: 1px solid #FFF;
+	  	    	cursor: pointer;
+
+	  	}	
 
 	  	.tab-contents{
 	  		text-align: left;
@@ -317,10 +316,11 @@ body{
 		input[type="radio"]{
 			display: none;
 		}
-		[id^="tab"]:checked + [class^=".labels"] { 
 
-		    border: 1px solid #a57c4f;
-		}
+		// [id^="tab"]:checked + [class^=".labels"] { 
+
+		//     border: 1px solid #a57c4f;
+		// }
 
 
 		[id^="tab"]:checked ~ [id^="tab-content"] {
@@ -328,6 +328,253 @@ body{
 			width: 100%;
 		}
 
-}
-// tab這一塊有待改進
+		input[type=radio]:checked + label{
+			border: 1px solid #a57c4f;
+		}
 
+}
+
+
+.contacts-content{
+	display: block;
+	position: relative;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	h2{
+		@extend %all-h2;
+		padding-top: 50px;
+	}
+	h3{
+		@extend %all-h3;
+		padding: 10px 0 30px 0;
+	}
+
+	.contact-box{
+		padding: 17px 6% 71px 9%;
+		margin: 0 auto;
+		max-width: 1020px;
+		background-color: blue;
+		.contact-holder{
+
+			width: 285px;
+			dt{
+				float: left;
+			}
+			dd{
+				text-align: left;
+			}
+		}
+}
+	.sent-form{
+		float: right;
+		position: relative;
+		right: 5%;
+		width: 55%;
+		.row{
+			.validation-box-success{
+				float: left;
+			}
+		}
+		textarea {
+			display: block;
+			margin: 0;
+			padding: 21px 17px;
+			resize: vertical;			
+			text-transform: uppercase;
+			color: #777;
+			border: 1px solid #fff;
+			background: #FFF;
+			border-radius: 3px;
+			overflow: auto;
+		}	
+		input[type="text"]{
+			display: block;
+			margin: 20px 25px 19px 0;
+			width: 338px;
+			height: 51px;
+			text-transform: uppercase;
+			border: 1px solid #FFF;	
+			outline: 0;
+			background-color: #FFF;
+
+		}
+		input[type="submit"]{
+			@extend %all-a;
+			margin: 0;
+			padding: 0 0 2px;
+			width: 300px;
+			height: 53px;
+			font: 16px/20px 'Lato', Arial, Helvetica, sans-serif;				
+			color: #a57c4f;
+			background: #f0f0f0;
+			border: 1px solid #a57c4f;
+			border-radius: 7px;
+			cursor: pointer;
+
+			}
+		}
+	}
+
+
+
+.maps-content{
+	// position: relative;
+
+	min-width: 100%;
+	width: auto;
+	height: 100%;
+	background-color: #505050;
+	li {
+
+	  	display: inline;
+	  	text-align: center;
+
+		}
+	label{
+
+	    padding: 10px 10px;
+	    // margin: 10px;
+	    color: #FFF;
+	    text-transform: uppercase;
+	    cursor: pointer;		    
+	    border-radius: 7px;bottom: 50px;
+	}
+	.maps-body{
+		display: inline-block;
+		min-width: 100%;
+	  	width: auto;
+	  	height: 100%;
+		list-style: none;
+		position: relative;
+		background-color: #505050;
+	}
+	.maps-information{
+	  	text-align: left;
+	    line-height: 25px;
+	    display: none;
+
+	}	
+		
+		address{
+			text-align: center;
+			color: #c9c0c2;
+			padding-top: 5%;
+		}
+	input[type="radio"]{
+		display: none;
+	}
+
+	[id^="map"]:checked ~ [id^="maps-information-content"] {
+		display: block;
+	}
+
+	input[type=radio]:checked + label{
+		border: 1px solid #FFF;
+	}
+	// .maps-label{
+	// 	display: inline;
+	// 	text-align: center;
+
+	// }
+}
+
+
+
+// surgeon.html分頁
+.pagination-main-nav{
+
+	@extend .main-content;
+	
+}
+.surgeon-content{
+	display: block;
+	padding: 58px 0 118px;
+	
+	h2{
+		@extend %all-h2;
+		text-align: center;
+	}
+	h3{
+		@extend %all-h3;
+		text-align: center;
+		margin: 10px 0 60px 0;
+
+	}
+	.surgeon-introduction{
+		// position: relative;
+		text-align: left;
+		width: 50%;
+		margin: 0 4% 2% 0;
+		height: 696px;
+		float: left;
+		background-image: url(../images/img09.jpg); 
+		background-size: cover;
+		
+	}
+	.surgeon-text{
+		position: relative;
+		padding: 60px 9px 0 40px;
+	 	margin: 0 6% 0 0;
+	 	text-align: left;
+	 	h5{
+	 		padding-top: 50px;
+	 		padding-bottom: 20px;
+	 		font-weight: bolder;
+
+	 	}
+	 	p{
+	 		margin: 0 0 25px;
+	 		&:last-child{
+	 			line-height: 3em;
+	 		}
+	 	} 
+		li{
+
+			&:first-child{
+				margin: 0;
+			}
+			margin-top: 30px;
+
+		}
+		.date{
+			position: absolute;
+
+		}
+		.thing{
+			padding-left: 12%;
+		}
+	}
+}
+
+
+// FAQS分頁
+.FAQS-content{
+	padding: 0 120px 98px;
+	h3{
+		@extend %all-h3;
+		text-align: center;
+		margin-top: 50px;
+	}
+	h4{
+		font-style: italic;
+		font-weight: bold;
+		margin-bottom: 30px;
+	}
+	h5{
+		font-weight: bolder;
+	}
+	.question{
+		margin-top: 30px;
+	}
+	p{
+		display: block;
+		padding-bottom: 30px;
+		border-bottom: 1px solid #a57c4f;
+		&:last-child{
+			border-bottom: 0 solid;
+		}
+}
+
+}

@@ -81,7 +81,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 /* line 21, ../sass/_header&footer.scss */
-.aesthetic-main-nav {
+.main-nav {
   position: relative;
   display: block;
   width: 100%;
@@ -90,7 +90,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   text-decoration: none;
 }
 /* line 28, ../sass/_header&footer.scss */
-.aesthetic-main-nav .bottom {
+.main-nav .bottom {
   position: fixed;
   margin-top: -50px;
   top: 0;
@@ -98,14 +98,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   right: 0;
 }
 /* line 35, ../sass/_header&footer.scss */
-.aesthetic-main-nav nav {
+.main-nav nav {
   z-index: 10000;
   padding: 10px 0;
   border-top: 1px solid #393939;
   background-color: #202020;
 }
 /* line 41, ../sass/_header&footer.scss */
-.aesthetic-main-nav nav .manu-item {
+.main-nav nav .manu-item {
   display: inline;
   margin: 0 22px 0 21px;
   color: #777;
@@ -116,11 +116,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   letter-spacing: 2px;
 }
 /* line 42, ../sass/_header&footer.scss */
-.aesthetic-main-nav nav .manu-item:hover {
+.main-nav nav .manu-item:hover {
   color: #A7A3A3;
 }
 /* line 59, ../sass/_header&footer.scss */
-.aesthetic-main-nav a {
+.main-nav a {
   text-decoration: none;
 }
 
@@ -139,8 +139,305 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   text-decoration: none;
 }
 
-/* line 1, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts {
+/* line 27, ../sass/screen.scss */
+.main-content .main-word-content a, .pagination-main-nav .main-word-content a, .about-content a, .ourprocedures-content a, .contacts-content .sent-form input[type="submit"] {
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: 1px solid #b3afaf;
+  border-radius: 7px;
+  width: 180px;
+  word-spacing: 1px;
+}
+
+/* line 38, ../sass/screen.scss */
+.about-content h3, .ourteam-content h3, .ourprocedures-content h3, .contacts-content h3, .surgeon-content h3, .FAQS-content h3 {
+  font-weight: 300;
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 26px;
+  color: #4e2c30;
+}
+
+/* line 45, ../sass/screen.scss */
+.ourteam-content h2, .ourprocedures-content h2, .contacts-content h2, .surgeon-content h2 {
+  font-weight: 300;
+  font-size: 43px;
+  letter-spacing: 1px;
+  line-height: 48px;
+  color: #a57c4f;
+}
+
+/* line 53, ../sass/screen.scss */
+* {
+  max-width: 10000px;
+}
+
+/* line 57, ../sass/screen.scss */
+body {
+  margin: 0;
+  min-width: 320px;
+  font-size: 16px;
+  font-family: 'Lato', 'sans-serif';
+  line-height: 24px;
+  color: #505050;
+}
+
+/* line 65, ../sass/screen.scss */
+.wrpper {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+/* line 72, ../sass/screen.scss */
+.main-content, .pagination-main-nav {
+  position: relative;
+  min-width: 100%;
+  width: auto;
+  height: 100%;
+  background-image: url(../images/img01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 80, ../sass/screen.scss */
+.main-content .main-word-content, .pagination-main-nav .main-word-content {
+  max-width: 500px;
+  position: absolute;
+  margin: 150px 0 0 150px;
+}
+/* line 86, ../sass/screen.scss */
+.main-content .main-word-content h1, .pagination-main-nav .main-word-content h1 {
+  font-size: 72px;
+  color: #FFF;
+  font-weight: 100;
+  letter-spacing: 3px;
+  line-height: 87px;
+  word-spacing: 1px;
+  padding-bottom: 10px;
+}
+/* line 95, ../sass/screen.scss */
+.main-content .main-word-content h3, .pagination-main-nav .main-word-content h3 {
+  font-size: 22px;
+  color: #bcb7b8;
+  font-weight: 300;
+  word-spacing: 2px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+/* line 104, ../sass/screen.scss */
+.main-content .main-word-content a, .pagination-main-nav .main-word-content a {
+  font-size: 19px;
+  color: #a69ea1;
+  padding: 16px 40px 17px;
+  margin-left: 7px;
+}
+/* line 105, ../sass/screen.scss */
+.main-content .main-word-content a:hover, .pagination-main-nav .main-word-content a:hover {
+  color: #C2C2C2;
+  border: 1px solid #C2C2C2;
+}
+
+/* line 118, ../sass/screen.scss */
+.about-content {
+  display: block;
+  width: auto;
+  height: auto;
+  background-color: #a6797e;
+  text-align: center;
+  transition: all 1s linear;
+  padding: 64px 194px 50px 200px;
+}
+/* line 126, ../sass/screen.scss */
+.about-content h2 {
+  font-weight: 300;
+  font-size: 43px;
+  letter-spacing: 1px;
+  line-height: 48px;
+  color: #FFF;
+}
+/* line 134, ../sass/screen.scss */
+.about-content h3 {
+  padding: 10px 0 20px 0;
+}
+/* line 138, ../sass/screen.scss */
+.about-content p {
+  word-spacing: 2px;
+  color: #dfcdcf;
+  margin-bottom: 50px;
+}
+/* line 144, ../sass/screen.scss */
+.about-content a {
+  text-align: center;
+  color: #caafb2;
+  padding: 20px 20px 20px;
+}
+/* line 146, ../sass/screen.scss */
+.about-content a:hover {
+  color: #FFCAD1;
+  border: 1px solid #FFCAD1;
+}
+
+/* line 156, ../sass/screen.scss */
+.ourteam-content {
+  margin-top: 60px;
+  background-color: #FFF;
+  text-align: center;
+}
+/* line 166, ../sass/screen.scss */
+.ourteam-content .text-box h3 {
+  color: #FFF;
+}
+/* line 169, ../sass/screen.scss */
+.ourteam-content .text-box h5 {
+  letter-spacing: 1px;
+  font-style: italic;
+  color: #bca48a;
+}
+/* line 175, ../sass/screen.scss */
+.ourteam-content .ourteam-list {
+  padding-top: 30px;
+  margin: 0;
+}
+/* line 178, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people {
+  float: left;
+  width: 25%;
+  position: relative;
+}
+/* line 182, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people .ourteam-photo1 {
+  background-image: url(../images/img02.jpg);
+}
+/* line 187, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people .ourteam-photo2 {
+  background-image: url(../images/img03.jpg);
+}
+/* line 191, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people .ourteam-photo3 {
+  background-image: url(../images/img04.jpg);
+}
+/* line 195, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people .ourteam-photo4 {
+  background-image: url(../images/img05.jpg);
+}
+/* line 199, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people div[class*=ourteam-photo] {
+  display: block;
+  width: 100%;
+  height: 453px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 207, ../sass/screen.scss */
+.ourteam-content .ourteam-list .ourteam-people .text-box {
+  position: absolute;
+  left: 0;
+  bottom: 30px;
+  width: 100%;
+}
+
+/* line 219, ../sass/screen.scss */
+.ourprocedures-content {
+  margin-top: 30px;
+  position: relative;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+/* line 234, ../sass/screen.scss */
+.ourprocedures-content h3 {
+  padding: 10px 0 30px 0;
+}
+/* line 238, ../sass/screen.scss */
+.ourprocedures-content a {
+  border-color: #a57c4f;
+  color: #bd9d7a;
+}
+/* line 240, ../sass/screen.scss */
+.ourprocedures-content a:hover {
+  color: #E0A241;
+  border: 1px solid #E0A241;
+}
+
+/* line 252, ../sass/screen.scss */
+.tabs {
+  display: inline-block;
+  min-width: 100%;
+  width: auto;
+  height: 150%;
+  list-style: none;
+  position: relative;
+}
+/* line 262, ../sass/screen.scss */
+.tabs li {
+  display: inline;
+}
+/* line 267, ../sass/screen.scss */
+.tabs label {
+  padding: 2px 10px;
+  border-radius: 5px;
+  color: #bd9d7a;
+  text-transform: uppercase;
+  border: 1px solid #FFF;
+  cursor: pointer;
+}
+/* line 277, ../sass/screen.scss */
+.tabs .tab-contents {
+  text-align: left;
+  z-index: 2;
+  display: none;
+  line-height: 25px;
+  padding: 25px;
+  position: absolute;
+  top: 53px;
+  left: -50px;
+}
+/* line 286, ../sass/screen.scss */
+.tabs .tab-contents .image-box {
+  float: left;
+  width: 50%;
+  height: 773px;
+  background-image: url(../images/img06.jpg);
+  background-size: cover;
+}
+/* line 296, ../sass/screen.scss */
+.tabs .tab-contents .image-box2 {
+  float: left;
+  width: 50%;
+  height: 773px;
+  background-image: url(../images/img07.jpg);
+  background-size: cover;
+}
+/* line 304, ../sass/screen.scss */
+.tabs .tab-contents .text-box {
+  float: right;
+  width: 39%;
+  margin: 50px 5%;
+}
+/* line 308, ../sass/screen.scss */
+.tabs .tab-contents .text-box a {
+  display: block;
+  padding: 13px 150px 14px;
+  margin: 20px;
+}
+/* line 316, ../sass/screen.scss */
+.tabs input[type="radio"] {
+  display: none;
+}
+/* line 326, ../sass/screen.scss */
+.tabs [id^="tab"]:checked ~ [id^="tab-content"] {
+  display: block;
+  width: 100%;
+}
+/* line 331, ../sass/screen.scss */
+.tabs input[type=radio]:checked + label {
+  border: 1px solid #a57c4f;
+}
+
+/* line 338, ../sass/screen.scss */
+.contacts-content {
   display: block;
   position: relative;
   top: 0;
@@ -148,46 +445,46 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   height: 100%;
   text-align: center;
 }
-/* line 8, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts h2 {
+/* line 345, ../sass/screen.scss */
+.contacts-content h2 {
   padding-top: 50px;
 }
-/* line 12, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts h3 {
+/* line 349, ../sass/screen.scss */
+.contacts-content h3 {
   padding: 10px 0 30px 0;
 }
-/* line 17, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .contact-box {
+/* line 354, ../sass/screen.scss */
+.contacts-content .contact-box {
   padding: 17px 6% 71px 9%;
   margin: 0 auto;
   max-width: 1020px;
   background-color: blue;
 }
-/* line 22, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .contact-box .contact-holder {
+/* line 359, ../sass/screen.scss */
+.contacts-content .contact-box .contact-holder {
   width: 285px;
 }
-/* line 25, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .contact-box .contact-holder dt {
+/* line 362, ../sass/screen.scss */
+.contacts-content .contact-box .contact-holder dt {
   float: left;
 }
-/* line 28, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .contact-box .contact-holder dd {
+/* line 365, ../sass/screen.scss */
+.contacts-content .contact-box .contact-holder dd {
   text-align: left;
 }
-/* line 33, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .sent-form {
+/* line 370, ../sass/screen.scss */
+.contacts-content .sent-form {
   float: right;
   position: relative;
   right: 5%;
   width: 55%;
 }
-/* line 39, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .sent-form .row .validation-box-success {
+/* line 376, ../sass/screen.scss */
+.contacts-content .sent-form .row .validation-box-success {
   float: left;
 }
-/* line 43, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .sent-form textarea {
+/* line 380, ../sass/screen.scss */
+.contacts-content .sent-form textarea {
   display: block;
   margin: 0;
   padding: 21px 17px;
@@ -199,8 +496,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   border-radius: 3px;
   overflow: auto;
 }
-/* line 55, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .sent-form input[type="text"] {
+/* line 392, ../sass/screen.scss */
+.contacts-content .sent-form input[type="text"] {
   display: block;
   margin: 20px 25px 19px 0;
   width: 338px;
@@ -210,8 +507,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   outline: 0;
   background-color: #FFF;
 }
-/* line 66, ../sass/_aesthetic-contacts.scss */
-.aesthetic-contacts .sent-form input[type="submit"] {
+/* line 403, ../sass/screen.scss */
+.contacts-content .sent-form input[type="submit"] {
   margin: 0;
   padding: 0 0 2px;
   width: 300px;
@@ -224,76 +521,77 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   cursor: pointer;
 }
 
-/* line 84, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps {
-  position: relative;
+/* line 422, ../sass/screen.scss */
+.maps-content {
   min-width: 100%;
   width: auto;
   height: 100%;
   background-color: #505050;
 }
-/* line 90, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps input[type="radio"] {
-  display: none;
+/* line 429, ../sass/screen.scss */
+.maps-content li {
+  display: inline;
+  text-align: center;
 }
-/* line 93, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps .maps-body {
-  display: block;
+/* line 435, ../sass/screen.scss */
+.maps-content label {
+  padding: 10px 10px;
+  color: #FFF;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 7px;
+  bottom: 50px;
+}
+/* line 444, ../sass/screen.scss */
+.maps-content .maps-body {
+  display: inline-block;
   min-width: 100%;
   width: auto;
-  height: 80%;
+  height: 100%;
   list-style: none;
   position: relative;
   background-color: #505050;
 }
-/* line 102, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps .maps-information {
+/* line 453, ../sass/screen.scss */
+.maps-content .maps-information {
   text-align: left;
   line-height: 25px;
   display: none;
 }
-/* line 109, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps address {
+/* line 460, ../sass/screen.scss */
+.maps-content address {
   text-align: center;
   color: #c9c0c2;
   padding-top: 5%;
 }
-/* line 115, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps [id^="map"]:checked ~ [id^="maps-information-content"] {
+/* line 465, ../sass/screen.scss */
+.maps-content input[type="radio"] {
+  display: none;
+}
+/* line 469, ../sass/screen.scss */
+.maps-content [id^="map"]:checked ~ [id^="maps-information-content"] {
   display: block;
 }
-/* line 118, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps .aesthetic-maps-label {
-  display: inline;
-  text-align: center;
-}
-/* line 121, ../sass/_aesthetic-contacts.scss */
-.aesthetic-maps .aesthetic-maps-label .click-label {
-  position: relative;
-  padding: 10px 10px;
-  margin: 10px;
-  color: #FFF;
+/* line 473, ../sass/screen.scss */
+.maps-content input[type=radio]:checked + label {
   border: 1px solid #FFF;
-  text-transform: uppercase;
-  cursor: pointer;
-  border-radius: 7px;
 }
 
-/* line 7, ../sass/_else.scss */
+/* line 491, ../sass/screen.scss */
 .surgeon-content {
   display: block;
   padding: 58px 0 118px;
 }
-/* line 11, ../sass/_else.scss */
+/* line 495, ../sass/screen.scss */
 .surgeon-content h2 {
   text-align: center;
 }
-/* line 15, ../sass/_else.scss */
+/* line 499, ../sass/screen.scss */
 .surgeon-content h3 {
   text-align: center;
   margin: 10px 0 60px 0;
 }
-/* line 21, ../sass/_else.scss */
+/* line 505, ../sass/screen.scss */
 .surgeon-content .surgeon-introduction {
   text-align: left;
   width: 50%;
@@ -303,373 +601,74 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   background-image: url(../images/img09.jpg);
   background-size: cover;
 }
-/* line 32, ../sass/_else.scss */
+/* line 516, ../sass/screen.scss */
 .surgeon-content .surgeon-text {
   position: relative;
   padding: 60px 9px 0 40px;
   margin: 0 6% 0 0;
   text-align: left;
 }
-/* line 37, ../sass/_else.scss */
+/* line 521, ../sass/screen.scss */
 .surgeon-content .surgeon-text h5 {
   padding-top: 50px;
   padding-bottom: 20px;
   font-weight: bolder;
 }
-/* line 43, ../sass/_else.scss */
+/* line 527, ../sass/screen.scss */
 .surgeon-content .surgeon-text p {
   margin: 0 0 25px;
 }
-/* line 45, ../sass/_else.scss */
+/* line 529, ../sass/screen.scss */
 .surgeon-content .surgeon-text p:last-child {
   line-height: 3em;
 }
-/* line 49, ../sass/_else.scss */
+/* line 533, ../sass/screen.scss */
 .surgeon-content .surgeon-text li {
   margin-top: 30px;
 }
-/* line 51, ../sass/_else.scss */
+/* line 535, ../sass/screen.scss */
 .surgeon-content .surgeon-text li:first-child {
   margin: 0;
 }
-/* line 57, ../sass/_else.scss */
+/* line 541, ../sass/screen.scss */
 .surgeon-content .surgeon-text .date {
   position: absolute;
 }
-/* line 61, ../sass/_else.scss */
+/* line 545, ../sass/screen.scss */
 .surgeon-content .surgeon-text .thing {
   padding-left: 12%;
 }
 
-/* line 71, ../sass/_else.scss */
-.aesthetic-FAQS {
+/* line 553, ../sass/screen.scss */
+.FAQS-content {
   padding: 0 120px 98px;
 }
-/* line 73, ../sass/_else.scss */
-.aesthetic-FAQS h3 {
+/* line 555, ../sass/screen.scss */
+.FAQS-content h3 {
   text-align: center;
   margin-top: 50px;
 }
-/* line 78, ../sass/_else.scss */
-.aesthetic-FAQS h4 {
+/* line 560, ../sass/screen.scss */
+.FAQS-content h4 {
   font-style: italic;
   font-weight: bold;
   margin-bottom: 30px;
 }
-/* line 83, ../sass/_else.scss */
-.aesthetic-FAQS h5 {
+/* line 565, ../sass/screen.scss */
+.FAQS-content h5 {
   font-weight: bolder;
 }
-/* line 86, ../sass/_else.scss */
-.aesthetic-FAQS .question {
+/* line 568, ../sass/screen.scss */
+.FAQS-content .question {
   margin-top: 30px;
 }
-/* line 89, ../sass/_else.scss */
-.aesthetic-FAQS p {
+/* line 571, ../sass/screen.scss */
+.FAQS-content p {
   display: block;
   padding-bottom: 30px;
   border-bottom: 1px solid #a57c4f;
 }
-/* line 93, ../sass/_else.scss */
-.aesthetic-FAQS p:last-child {
+/* line 575, ../sass/screen.scss */
+.FAQS-content p:last-child {
   border-bottom: 0 solid;
-}
-
-/* line 32, ../sass/screen.scss */
-.aesthetic-contacts .sent-form input[type="submit"], .aesthetic-main .aesthetic-main-word a, .aesthetic-main-else .aesthetic-main-word a, .aesthetic-about a, .aesthetic-ourprocedures a {
-  text-align: center;
-  text-decoration: none;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  border: 1px solid #b3afaf;
-  border-radius: 7px;
-  width: 180px;
-  word-spacing: 1px;
-}
-
-/* line 43, ../sass/screen.scss */
-.aesthetic-contacts h3, .surgeon-content h3, .aesthetic-FAQS h3, .aesthetic-about h3, .aesthetic-ourteam h3, .aesthetic-ourprocedures h3 {
-  font-weight: 300;
-  font-size: 21px;
-  letter-spacing: 1px;
-  line-height: 26px;
-  color: #4e2c30;
-}
-
-/* line 50, ../sass/screen.scss */
-.aesthetic-contacts h2, .surgeon-content h2, .aesthetic-ourteam h2, .aesthetic-ourprocedures h2 {
-  font-weight: 300;
-  font-size: 43px;
-  letter-spacing: 1px;
-  line-height: 48px;
-  color: #a57c4f;
-}
-
-/* line 58, ../sass/screen.scss */
-* {
-  max-width: 10000px;
-}
-
-/* line 62, ../sass/screen.scss */
-body {
-  margin: 0;
-  min-width: 320px;
-  font-size: 16px;
-  font-family: 'Lato', 'sans-serif';
-  line-height: 24px;
-  color: #505050;
-}
-
-/* line 70, ../sass/screen.scss */
-.wrpper {
-  width: 100%;
-  position: relative;
-  overflow: hidden;
-}
-
-/* line 75, ../sass/screen.scss */
-.aesthetic-main, .aesthetic-main-else {
-  position: relative;
-  min-width: 100%;
-  width: auto;
-  height: 100%;
-  background-image: url(../images/img01.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-/* line 83, ../sass/screen.scss */
-.aesthetic-main .aesthetic-main-word, .aesthetic-main-else .aesthetic-main-word {
-  max-width: 500px;
-  position: absolute;
-  margin: 150px 0 0 150px;
-}
-/* line 89, ../sass/screen.scss */
-.aesthetic-main .aesthetic-main-word h1, .aesthetic-main-else .aesthetic-main-word h1 {
-  font-size: 72px;
-  color: #FFF;
-  font-weight: 100;
-  letter-spacing: 3px;
-  line-height: 87px;
-  word-spacing: 1px;
-  padding-bottom: 10px;
-}
-/* line 98, ../sass/screen.scss */
-.aesthetic-main .aesthetic-main-word h3, .aesthetic-main-else .aesthetic-main-word h3 {
-  font-size: 22px;
-  color: #bcb7b8;
-  font-weight: 300;
-  word-spacing: 2px;
-  text-align: center;
-  padding-bottom: 40px;
-}
-/* line 107, ../sass/screen.scss */
-.aesthetic-main .aesthetic-main-word a, .aesthetic-main-else .aesthetic-main-word a {
-  font-size: 19px;
-  color: #a69ea1;
-  padding: 16px 40px 17px;
-  margin-left: 7px;
-}
-/* line 108, ../sass/screen.scss */
-.aesthetic-main .aesthetic-main-word a:hover, .aesthetic-main-else .aesthetic-main-word a:hover {
-  color: #C2C2C2;
-  border: 1px solid #C2C2C2;
-}
-
-/* line 120, ../sass/screen.scss */
-.aesthetic-about {
-  display: block;
-  width: auto;
-  height: auto;
-  background-color: #a6797e;
-  text-align: center;
-  transition: all 1s linear;
-  padding: 64px 194px 50px 200px;
-}
-/* line 128, ../sass/screen.scss */
-.aesthetic-about h2 {
-  font-weight: 300;
-  font-size: 43px;
-  letter-spacing: 1px;
-  line-height: 48px;
-  color: #FFF;
-}
-/* line 136, ../sass/screen.scss */
-.aesthetic-about h3 {
-  padding: 10px 0 20px 0;
-}
-/* line 140, ../sass/screen.scss */
-.aesthetic-about p {
-  word-spacing: 2px;
-  color: #dfcdcf;
-  margin-bottom: 50px;
-}
-/* line 146, ../sass/screen.scss */
-.aesthetic-about a {
-  text-align: center;
-  color: #caafb2;
-  padding: 20px 20px 20px;
-}
-/* line 148, ../sass/screen.scss */
-.aesthetic-about a:hover {
-  color: #FFCAD1;
-  border: 1px solid #FFCAD1;
-}
-
-/* line 158, ../sass/screen.scss */
-.aesthetic-ourteam {
-  margin-top: 60px;
-  background-color: #FFF;
-  text-align: center;
-}
-/* line 168, ../sass/screen.scss */
-.aesthetic-ourteam .text-box h3 {
-  color: #FFF;
-}
-/* line 171, ../sass/screen.scss */
-.aesthetic-ourteam .text-box h5 {
-  letter-spacing: 1px;
-  font-style: italic;
-  color: #bca48a;
-}
-/* line 177, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list {
-  padding-top: 30px;
-  margin: 0;
-}
-/* line 180, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people {
-  float: left;
-  width: 25%;
-  position: relative;
-}
-/* line 184, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people .aesthetic-ourteam-photo1 {
-  background-image: url(../images/img02.jpg);
-}
-/* line 189, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people .aesthetic-ourteam-photo2 {
-  background-image: url(../images/img03.jpg);
-}
-/* line 193, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people .aesthetic-ourteam-photo3 {
-  background-image: url(../images/img04.jpg);
-}
-/* line 197, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people .aesthetic-ourteam-photo4 {
-  background-image: url(../images/img05.jpg);
-}
-/* line 201, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people div[class*=aesthetic-ourteam-photo] {
-  display: block;
-  width: 100%;
-  height: 453px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-/* line 209, ../sass/screen.scss */
-.aesthetic-ourteam .aesthetic-ourteam-list .aesthetic-ourteam-people .text-box {
-  position: absolute;
-  left: 0;
-  bottom: 30px;
-  width: 100%;
-}
-
-/* line 222, ../sass/screen.scss */
-.aesthetic-ourprocedures {
-  margin-top: 30px;
-  position: relative;
-  width: auto;
-  height: auto;
-  text-align: center;
-}
-/* line 237, ../sass/screen.scss */
-.aesthetic-ourprocedures h3 {
-  padding: 10px 0 30px 0;
-}
-/* line 241, ../sass/screen.scss */
-.aesthetic-ourprocedures a {
-  border-color: #a57c4f;
-  color: #bd9d7a;
-}
-/* line 243, ../sass/screen.scss */
-.aesthetic-ourprocedures a:hover {
-  color: #E0A241;
-  border: 1px solid #E0A241;
-}
-
-/* line 253, ../sass/screen.scss */
-.labels {
-  display: inline;
-  padding: 2px 10px;
-  border-radius: 5px;
-  color: #bd9d7a;
-  text-transform: uppercase;
-  border: 1px solid #FFF;
-  cursor: pointer;
-}
-
-/* line 263, ../sass/screen.scss */
-.tabs {
-  display: inline-block;
-  min-width: 100%;
-  width: auto;
-  height: 150%;
-  list-style: none;
-  position: relative;
-}
-/* line 273, ../sass/screen.scss */
-.tabs li {
-  float: left;
-}
-/* line 278, ../sass/screen.scss */
-.tabs .tab-contents {
-  text-align: left;
-  z-index: 2;
-  display: none;
-  line-height: 25px;
-  padding: 25px;
-  position: absolute;
-  top: 53px;
-  left: -50px;
-}
-/* line 287, ../sass/screen.scss */
-.tabs .tab-contents .image-box {
-  float: left;
-  width: 50%;
-  height: 773px;
-  background-image: url(../images/img06.jpg);
-  background-size: cover;
-}
-/* line 297, ../sass/screen.scss */
-.tabs .tab-contents .image-box2 {
-  float: left;
-  width: 50%;
-  height: 773px;
-  background-image: url(../images/img07.jpg);
-  background-size: cover;
-}
-/* line 305, ../sass/screen.scss */
-.tabs .tab-contents .text-box {
-  float: right;
-  width: 39%;
-  margin: 50px 5%;
-}
-/* line 309, ../sass/screen.scss */
-.tabs .tab-contents .text-box a {
-  display: block;
-  padding: 13px 150px 14px;
-  margin: 20px;
-}
-/* line 317, ../sass/screen.scss */
-.tabs input[type="radio"] {
-  display: none;
-}
-/* line 320, ../sass/screen.scss */
-.tabs [id^="tab"]:checked + [class^=".labels"] {
-  border: 1px solid #a57c4f;
-}
-/* line 326, ../sass/screen.scss */
-.tabs [id^="tab"]:checked ~ [id^="tab-content"] {
-  display: block;
-  width: 100%;
 }
